@@ -27,10 +27,10 @@ def load_weather_data():
     df['Month'] = df['FlightDate'].dt.month
     return df
 
-# Sidebar
+# Sidebar: View Selector
 view_option = st.sidebar.radio("Choose View", ["📊 Weather Delay Analysis", "🌐 Live Flight Tracking"])
 
-# View 1: Weather-Based Delay Analysis
+# --- Weather Delay Analysis View ---
 if view_option == "📊 Weather Delay Analysis":
     df = load_weather_data()
     weather_df = df[df['DelayReason'] == 'Weather']
@@ -65,37 +65,32 @@ if view_option == "📊 Weather Delay Analysis":
     ax.set_ylabel("Airport")
     st.pyplot(fig)
 
-    # Download option
-    st.download_button("📥 Download CSV", data=filtered_df.to_csv(index=False).encode('utf-8'), file_name="weather_delays.csv", mime="text/csv")
+    # Download CSV Button
+    st.download_button("📥 Download Filtered Data", data=filtered_df.to_csv(index=False).encode('utf-8'),
+                       file_name="weather_delays.csv", mime="text/csv")
 
-# View 2: Live Flight Tracker
+# --- Live Flight Tracking View ---
 elif view_option == "🌐 Live Flight Tracking":
     live_df = load_live_flight_data()
 
-    st.sidebar.header("🔎 Track Specific Flight")
-    flight_numbers = live_df['flight.number'].dropna().unique()
-    selected_flight = st.sidebar.selectbox("Choose Flight Number", flight_numbers)
+    st.subheader("📋 Live Flights Overview")
+    st.dataframe(live_df[['airline.name', 'flight.number', 'departure.iata', 'arrival.iata',
+                          'departure.scheduled', 'flight_status']])
 
-    st.subheader("📋 Live Flight Data (Top 50 Flights)")
-    st.dataframe(live_df[['airline.name', 'flight.number', 'departure.iata', 'arrival.iata', 'departure.scheduled', 'flight_status']])
-
-    st.subheader("📊 Flight Status Overview")
+    st.subheader("📊 Current Flight Status Summary")
     status_counts = live_df['flight_status'].value_counts()
     st.bar_chart(status_counts)
 
-    st.subheader("📍 Top 10 Departure Airports")
-    top_dep = live_df['departure.iata'].value_counts().head(10)
-    fig2, ax2 = plt.subplots()
-    sns.barplot(x=top_dep.values, y=top_dep.index, ax=ax2)
-    ax2.set_xlabel("Departures")
-    ax2.set_ylabel("Airport")
-    st.pyplot(fig2)
+    # Sidebar Flight Tracker Filter
+    st.sidebar.header("🔎 Track a Flight by Number")
+    flight_numbers = live_df['flight.number'].dropna().unique()
+    selected_flight = st.sidebar.selectbox("Select Flight", flight_numbers)
 
     flight_info = live_df[live_df['flight.number'] == selected_flight]
     if not flight_info.empty:
         st.subheader(f"📍 Live Status for Flight {selected_flight}")
-        st.write(flight_info[['airline.name', 'flight.number', 'departure.iata', 'arrival.iata',
+        st.write(flight_info[['airline.name', 'departure.iata', 'arrival.iata',
                               'departure.scheduled', 'arrival.scheduled',
-                              'departure.estimated', 'arrival.estimated', 'flight_status']])
+                              'flight_status', 'departure.estimated', 'arrival.estimated']])
     else:
-        st.warning("No data found for this flight.")
+        st.warning("No live data found for the selected flight.")
