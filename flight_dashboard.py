@@ -72,7 +72,11 @@ if view_option == "📊 Weather Delay Analysis":
 elif view_option == "🌐 Live Flight Tracking":
     live_df = load_live_flight_data()
 
-    st.subheader("📋 Live Flight Data")
+    st.sidebar.header("🔎 Track Specific Flight")
+    flight_numbers = live_df['flight.number'].dropna().unique()
+    selected_flight = st.sidebar.selectbox("Choose Flight Number", flight_numbers)
+
+    st.subheader("📋 Live Flight Data (Top 50 Flights)")
     st.dataframe(live_df[['airline.name', 'flight.number', 'departure.iata', 'arrival.iata', 'departure.scheduled', 'flight_status']])
 
     st.subheader("📊 Flight Status Overview")
@@ -86,3 +90,12 @@ elif view_option == "🌐 Live Flight Tracking":
     ax2.set_xlabel("Departures")
     ax2.set_ylabel("Airport")
     st.pyplot(fig2)
+
+    flight_info = live_df[live_df['flight.number'] == selected_flight]
+    if not flight_info.empty:
+        st.subheader(f"📍 Live Status for Flight {selected_flight}")
+        st.write(flight_info[['airline.name', 'flight.number', 'departure.iata', 'arrival.iata',
+                              'departure.scheduled', 'arrival.scheduled',
+                              'departure.estimated', 'arrival.estimated', 'flight_status']])
+    else:
+        st.warning("No data found for this flight.")
