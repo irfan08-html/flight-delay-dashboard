@@ -1,0 +1,2001 @@
+FlightDate,Airline,FlightNumber,OriginAirport,DestinationAirport,DepartureDelay,DelayReason,WeatherCondition
+2024-06-03,Vistara,VI613,HYD,DEL,102,Weather,Fog
+2024-05-09,SpiceJet,SP140,BLR,CCU,127,Weather,Clear
+2024-05-13,GoAir,GO262,LKO,HYD,114,Security,Clear
+2024-03-27,GoAir,GO153,LKO,DEL,157,Weather,Snow
+2024-03-13,Air India,AI841,HYD,BLR,51,Weather,Thunderstorm
+2024-03-20,Vistara,VI232,BOM,BLR,179,Technical,Clear
+2024-02-02,GoAir,GO195,CCU,MAA,107,Weather,Thunderstorm
+2024-02-16,SpiceJet,SP449,PNQ,BOM,50,Weather,Heavy Rain
+2024-01-20,Air India,AI964,BOM,LKO,149,Crew,Clear
+2024-06-18,Air India,AI997,HYD,LKO,56,Weather,Heavy Rain
+2024-06-26,GoAir,GO928,HYD,CCU,120,Weather,Thunderstorm
+2024-06-22,SpiceJet,SP554,MAA,PNQ,129,Crew,Clear
+2024-05-16,SpiceJet,SP416,PNQ,CCU,161,Weather,Snow
+2024-04-28,Air India,AI896,CCU,MAA,56,Technical,Clear
+2024-06-03,SpiceJet,SP993,MAA,DEL,110,Technical,Clear
+2024-05-12,Indigo,IN391,BOM,PNQ,130,Weather,Clear
+2024-02-07,Vistara,VI193,BLR,PNQ,104,Weather,Fog
+2024-04-16,Indigo,IN505,LKO,BOM,35,Weather,Thunderstorm
+2024-02-27,Indigo,IN426,BOM,PNQ,100,Crew,Clear
+2024-02-05,Indigo,IN393,PNQ,LKO,135,ATC,Clear
+2024-06-06,Indigo,IN181,DEL,BLR,53,Weather,Clear
+2024-06-04,GoAir,GO533,BOM,PNQ,92,Weather,Fog
+2024-01-13,SpiceJet,SP529,PNQ,DEL,142,Weather,Clear
+2024-05-17,Indigo,IN747,BLR,CCU,124,Weather,Fog
+2024-06-06,Air India,AI346,CCU,BOM,36,Technical,Clear
+2024-01-18,GoAir,GO657,DEL,MAA,26,ATC,Clear
+2024-04-05,Air India,AI865,DEL,BLR,103,Crew,Clear
+2024-06-17,Indigo,IN890,LKO,BOM,154,Weather,Thunderstorm
+2024-06-13,SpiceJet,SP950,PNQ,LKO,61,Weather,Heavy Rain
+2024-01-17,Vistara,VI137,MAA,BOM,66,Weather,Fog
+2024-03-21,Air India,AI627,CCU,PNQ,79,Technical,Clear
+2024-06-14,SpiceJet,SP392,LKO,PNQ,99,Crew,Clear
+2024-02-01,Air India,AI547,CCU,LKO,113,Weather,Thunderstorm
+2024-02-17,Vistara,VI808,PNQ,HYD,147,Security,Clear
+2024-01-22,Vistara,VI180,CCU,MAA,61,Security,Clear
+2024-03-23,Indigo,IN181,LKO,CCU,129,Weather,Clear
+2024-04-19,SpiceJet,SP806,PNQ,HYD,105,Weather,Clear
+2024-04-21,Air India,AI754,DEL,BOM,118,Technical,Clear
+2024-05-11,SpiceJet,SP131,HYD,PNQ,127,Technical,Clear
+2024-02-02,Indigo,IN341,LKO,HYD,160,Weather,Fog
+2024-06-03,SpiceJet,SP795,PNQ,HYD,34,Weather,Clear
+2024-02-05,GoAir,GO475,CCU,HYD,78,Technical,Clear
+2024-01-07,SpiceJet,SP611,CCU,MAA,81,Weather,Snow
+2024-02-24,GoAir,GO392,PNQ,BOM,33,Weather,Snow
+2024-02-14,Vistara,VI189,LKO,CCU,31,Weather,Clear
+2024-05-18,Air India,AI407,HYD,CCU,178,Crew,Clear
+2024-04-02,GoAir,GO329,BOM,HYD,75,Crew,Clear
+2024-01-07,Air India,AI667,LKO,BLR,156,ATC,Clear
+2024-06-05,Indigo,IN167,MAA,BLR,137,Security,Clear
+2024-04-14,GoAir,GO175,HYD,BLR,130,Technical,Clear
+2024-06-23,GoAir,GO452,HYD,PNQ,178,Crew,Clear
+2024-02-03,Vistara,VI614,DEL,PNQ,54,Weather,Thunderstorm
+2024-02-12,SpiceJet,SP430,BLR,HYD,147,Security,Clear
+2024-01-21,Air India,AI301,MAA,BOM,172,Technical,Clear
+2024-05-08,SpiceJet,SP706,HYD,BOM,169,Technical,Clear
+2024-05-24,Indigo,IN945,DEL,BOM,179,Weather,Clear
+2024-03-08,SpiceJet,SP885,CCU,MAA,142,Technical,Clear
+2024-06-13,Air India,AI594,BLR,PNQ,118,ATC,Clear
+2024-04-26,Indigo,IN805,DEL,HYD,138,Weather,Snow
+2024-02-22,Air India,AI721,HYD,BLR,96,ATC,Clear
+2024-04-12,SpiceJet,SP878,LKO,MAA,96,Technical,Clear
+2024-04-29,Indigo,IN373,PNQ,BOM,27,Weather,Thunderstorm
+2024-04-08,GoAir,GO528,BLR,PNQ,98,Security,Clear
+2024-02-18,SpiceJet,SP610,PNQ,BLR,142,ATC,Clear
+2024-01-24,Vistara,VI617,PNQ,BOM,105,Weather,Fog
+2024-01-13,Air India,AI606,PNQ,HYD,42,Technical,Clear
+2024-02-04,Air India,AI844,LKO,PNQ,26,Weather,Snow
+2024-01-14,GoAir,GO675,BLR,HYD,33,Technical,Clear
+2024-05-09,Vistara,VI882,MAA,PNQ,171,Security,Clear
+2024-02-02,Indigo,IN503,LKO,PNQ,157,Security,Clear
+2024-02-06,SpiceJet,SP716,CCU,MAA,24,Weather,Heavy Rain
+2024-03-26,Vistara,VI631,PNQ,BOM,146,Technical,Clear
+2024-03-24,GoAir,GO426,HYD,MAA,91,Security,Clear
+2024-05-09,GoAir,GO645,PNQ,LKO,136,Technical,Clear
+2024-04-04,Air India,AI789,BOM,MAA,176,Technical,Clear
+2024-06-01,Vistara,VI371,BLR,CCU,137,Weather,Heavy Rain
+2024-05-14,GoAir,GO893,CCU,BOM,77,ATC,Clear
+2024-05-26,Indigo,IN295,DEL,MAA,53,Weather,Snow
+2024-06-25,SpiceJet,SP520,PNQ,CCU,30,ATC,Clear
+2024-05-12,SpiceJet,SP674,LKO,CCU,111,Weather,Thunderstorm
+2024-02-14,Vistara,VI645,LKO,MAA,179,Weather,Thunderstorm
+2024-06-05,Vistara,VI296,BLR,HYD,72,Technical,Clear
+2024-03-14,SpiceJet,SP806,PNQ,HYD,158,Weather,Thunderstorm
+2024-03-14,Indigo,IN687,CCU,BLR,52,ATC,Clear
+2024-01-11,Air India,AI831,BOM,BLR,80,Security,Clear
+2024-02-24,SpiceJet,SP947,MAA,LKO,50,Technical,Clear
+2024-06-06,GoAir,GO345,BLR,DEL,150,Technical,Clear
+2024-06-12,SpiceJet,SP153,BOM,MAA,135,Weather,Fog
+2024-06-23,SpiceJet,SP105,HYD,MAA,136,Technical,Clear
+2024-06-15,SpiceJet,SP874,MAA,HYD,30,Weather,Fog
+2024-06-15,GoAir,GO337,DEL,HYD,60,Weather,Fog
+2024-04-11,Vistara,VI290,MAA,DEL,160,Weather,Clear
+2024-01-28,Air India,AI391,PNQ,LKO,141,Technical,Clear
+2024-05-09,Vistara,VI379,BLR,PNQ,56,Weather,Snow
+2024-06-14,Air India,AI835,HYD,DEL,90,Crew,Clear
+2024-02-14,GoAir,GO976,CCU,PNQ,98,Weather,Fog
+2024-04-12,Indigo,IN289,HYD,MAA,78,Weather,Fog
+2024-03-07,Vistara,VI341,PNQ,CCU,99,Weather,Thunderstorm
+2024-05-29,GoAir,GO111,MAA,CCU,75,Weather,Fog
+2024-06-19,Indigo,IN576,MAA,BOM,143,Weather,Thunderstorm
+2024-06-25,Indigo,IN754,MAA,HYD,71,Technical,Clear
+2024-05-02,SpiceJet,SP565,LKO,BLR,135,Crew,Clear
+2024-03-04,GoAir,GO994,BOM,LKO,107,Weather,Fog
+2024-05-24,Indigo,IN163,BLR,LKO,57,Technical,Clear
+2024-05-13,Vistara,VI219,BLR,CCU,38,Technical,Clear
+2024-01-15,Vistara,VI235,CCU,BLR,158,Technical,Clear
+2024-06-21,Air India,AI840,DEL,MAA,15,Weather,Heavy Rain
+2024-05-28,Indigo,IN146,CCU,HYD,153,Crew,Clear
+2024-01-18,Vistara,VI132,MAA,BLR,49,Weather,Snow
+2024-04-05,Vistara,VI559,CCU,BLR,153,Weather,Heavy Rain
+2024-06-16,Air India,AI221,HYD,LKO,47,Weather,Heavy Rain
+2024-01-01,Indigo,IN405,PNQ,LKO,123,Crew,Clear
+2024-02-28,SpiceJet,SP571,LKO,BOM,43,Weather,Fog
+2024-06-18,Vistara,VI729,DEL,HYD,40,Weather,Clear
+2024-01-09,Vistara,VI712,DEL,HYD,117,Crew,Clear
+2024-02-29,GoAir,GO322,DEL,HYD,89,Technical,Clear
+2024-05-27,Air India,AI691,LKO,BOM,51,Weather,Clear
+2024-02-26,Vistara,VI407,MAA,DEL,166,Technical,Clear
+2024-06-09,Vistara,VI669,PNQ,DEL,179,Security,Clear
+2024-05-14,Air India,AI813,CCU,BLR,111,Weather,Heavy Rain
+2024-05-17,Vistara,VI346,BLR,HYD,51,ATC,Clear
+2024-01-15,GoAir,GO522,CCU,MAA,114,Technical,Clear
+2024-03-06,SpiceJet,SP438,BOM,MAA,38,ATC,Clear
+2024-01-14,Air India,AI486,DEL,PNQ,165,Weather,Clear
+2024-02-25,Vistara,VI313,LKO,HYD,18,Security,Clear
+2024-02-18,Indigo,IN864,PNQ,BOM,67,Technical,Clear
+2024-03-02,GoAir,GO429,MAA,BLR,106,Weather,Thunderstorm
+2024-03-07,Air India,AI625,PNQ,BLR,135,Weather,Thunderstorm
+2024-02-22,Air India,AI420,CCU,DEL,71,Technical,Clear
+2024-01-05,Air India,AI666,CCU,HYD,99,Weather,Heavy Rain
+2024-04-07,GoAir,GO953,BLR,MAA,101,Technical,Clear
+2024-05-05,Vistara,VI571,HYD,CCU,58,Crew,Clear
+2024-05-19,Vistara,VI288,DEL,LKO,34,Weather,Fog
+2024-01-02,Vistara,VI240,BLR,DEL,17,Crew,Clear
+2024-05-09,Vistara,VI482,DEL,LKO,172,Technical,Clear
+2024-06-17,Vistara,VI116,DEL,LKO,18,Technical,Clear
+2024-05-15,Air India,AI648,MAA,DEL,125,Technical,Clear
+2024-01-28,Indigo,IN636,HYD,BOM,149,Weather,Thunderstorm
+2024-03-31,Air India,AI914,CCU,DEL,118,Weather,Snow
+2024-05-24,SpiceJet,SP813,BLR,HYD,35,Technical,Clear
+2024-01-24,Vistara,VI488,CCU,MAA,178,Weather,Fog
+2024-06-28,SpiceJet,SP184,PNQ,CCU,99,Weather,Clear
+2024-01-25,GoAir,GO143,BLR,BOM,160,Security,Clear
+2024-03-10,Indigo,IN176,MAA,LKO,23,Technical,Clear
+2024-03-21,Indigo,IN312,HYD,PNQ,116,ATC,Clear
+2024-03-17,SpiceJet,SP677,BLR,LKO,114,ATC,Clear
+2024-04-08,SpiceJet,SP909,BOM,LKO,103,Crew,Clear
+2024-01-26,Vistara,VI337,BOM,BLR,172,Technical,Clear
+2024-03-24,Indigo,IN749,MAA,PNQ,140,Security,Clear
+2024-04-01,GoAir,GO484,CCU,BOM,112,Technical,Clear
+2024-06-07,Air India,AI917,BLR,CCU,83,Weather,Heavy Rain
+2024-04-07,SpiceJet,SP857,CCU,HYD,38,Weather,Fog
+2024-03-19,Vistara,VI468,MAA,DEL,62,Weather,Snow
+2024-04-24,GoAir,GO668,CCU,DEL,105,Weather,Clear
+2024-01-24,GoAir,GO712,LKO,PNQ,89,Weather,Snow
+2024-04-09,Indigo,IN842,BLR,LKO,112,Technical,Clear
+2024-02-05,Air India,AI408,MAA,BLR,57,Weather,Snow
+2024-03-11,Vistara,VI406,PNQ,CCU,79,Weather,Heavy Rain
+2024-06-09,Vistara,VI708,BLR,MAA,92,Weather,Fog
+2024-04-11,Air India,AI961,CCU,PNQ,127,ATC,Clear
+2024-04-20,GoAir,GO239,MAA,HYD,66,Technical,Clear
+2024-03-21,SpiceJet,SP507,LKO,HYD,177,Crew,Clear
+2024-05-27,SpiceJet,SP433,CCU,HYD,115,ATC,Clear
+2024-01-30,GoAir,GO304,HYD,CCU,21,Crew,Clear
+2024-02-23,Vistara,VI916,MAA,PNQ,119,Technical,Clear
+2024-02-05,Air India,AI347,MAA,CCU,123,Weather,Snow
+2024-01-19,Vistara,VI712,PNQ,MAA,144,Weather,Snow
+2024-05-19,Indigo,IN909,LKO,CCU,152,ATC,Clear
+2024-01-28,SpiceJet,SP773,LKO,BOM,26,Technical,Clear
+2024-03-25,Vistara,VI208,DEL,BOM,145,Weather,Clear
+2024-05-22,GoAir,GO804,BLR,MAA,133,Weather,Clear
+2024-06-25,GoAir,GO254,LKO,DEL,90,Weather,Snow
+2024-01-22,Indigo,IN951,HYD,BLR,131,Weather,Heavy Rain
+2024-05-13,Vistara,VI456,PNQ,DEL,130,Weather,Thunderstorm
+2024-01-18,Air India,AI145,BOM,DEL,180,ATC,Clear
+2024-06-22,SpiceJet,SP858,BLR,LKO,55,Weather,Thunderstorm
+2024-05-23,Vistara,VI573,BLR,PNQ,62,Weather,Heavy Rain
+2024-06-12,Vistara,VI505,DEL,CCU,65,Technical,Clear
+2024-05-31,Vistara,VI498,DEL,CCU,86,Weather,Fog
+2024-05-27,Indigo,IN918,HYD,BLR,132,Weather,Fog
+2024-03-08,Vistara,VI640,LKO,MAA,115,Weather,Clear
+2024-01-30,Air India,AI460,PNQ,MAA,91,Weather,Clear
+2024-05-31,Indigo,IN788,HYD,BLR,93,Weather,Fog
+2024-02-16,Air India,AI810,HYD,LKO,167,Weather,Heavy Rain
+2024-05-27,Vistara,VI533,HYD,MAA,180,Technical,Clear
+2024-05-22,SpiceJet,SP601,MAA,BOM,130,Weather,Clear
+2024-01-14,Air India,AI109,PNQ,BOM,113,Weather,Clear
+2024-05-09,Vistara,VI518,PNQ,BLR,128,Crew,Clear
+2024-02-12,Indigo,IN678,DEL,PNQ,89,Crew,Clear
+2024-03-11,SpiceJet,SP650,MAA,BOM,159,Crew,Clear
+2024-05-20,GoAir,GO215,BOM,BLR,108,Crew,Clear
+2024-04-22,GoAir,GO323,CCU,DEL,78,Crew,Clear
+2024-01-09,Vistara,VI369,LKO,PNQ,127,ATC,Clear
+2024-03-01,SpiceJet,SP930,LKO,PNQ,176,Crew,Clear
+2024-02-12,GoAir,GO242,BLR,PNQ,30,Weather,Clear
+2024-03-30,GoAir,GO387,HYD,BLR,89,Security,Clear
+2024-05-26,Air India,AI978,BOM,HYD,120,Security,Clear
+2024-03-11,SpiceJet,SP818,HYD,BOM,97,Weather,Heavy Rain
+2024-06-22,Vistara,VI601,HYD,LKO,175,Technical,Clear
+2024-04-06,Vistara,VI177,BOM,MAA,86,Technical,Clear
+2024-04-26,Vistara,VI435,DEL,PNQ,38,Crew,Clear
+2024-06-11,Air India,AI970,BOM,PNQ,70,Technical,Clear
+2024-02-24,Vistara,VI374,LKO,PNQ,155,Weather,Clear
+2024-02-03,GoAir,GO972,PNQ,CCU,27,Weather,Fog
+2024-01-26,Vistara,VI116,BOM,PNQ,131,Weather,Fog
+2024-04-19,SpiceJet,SP805,HYD,CCU,85,Weather,Fog
+2024-06-16,Air India,AI356,BOM,BLR,57,Technical,Clear
+2024-04-11,Air India,AI843,BLR,MAA,39,Technical,Clear
+2024-02-24,Vistara,VI179,HYD,LKO,128,Weather,Fog
+2024-01-03,Air India,AI936,BOM,PNQ,48,Weather,Snow
+2024-01-19,SpiceJet,SP492,BOM,CCU,41,ATC,Clear
+2024-04-04,Air India,AI240,CCU,PNQ,49,ATC,Clear
+2024-01-18,GoAir,GO676,DEL,LKO,127,Technical,Clear
+2024-02-24,SpiceJet,SP521,PNQ,CCU,40,Weather,Heavy Rain
+2024-02-01,GoAir,GO847,CCU,HYD,95,Security,Clear
+2024-03-04,Air India,AI760,BOM,HYD,168,Technical,Clear
+2024-06-25,Indigo,IN968,MAA,BOM,145,Technical,Clear
+2024-04-10,Air India,AI761,DEL,PNQ,76,ATC,Clear
+2024-04-08,Indigo,IN346,PNQ,LKO,150,Technical,Clear
+2024-04-02,Air India,AI235,CCU,PNQ,122,ATC,Clear
+2024-05-19,SpiceJet,SP881,PNQ,CCU,165,Weather,Fog
+2024-01-04,Air India,AI320,DEL,BOM,116,Security,Clear
+2024-06-09,GoAir,GO885,CCU,BLR,36,Crew,Clear
+2024-03-12,Indigo,IN417,BOM,LKO,54,Security,Clear
+2024-04-10,GoAir,GO749,BOM,BLR,76,Technical,Clear
+2024-03-03,Indigo,IN544,BOM,MAA,29,Technical,Clear
+2024-06-19,SpiceJet,SP222,DEL,CCU,17,Weather,Heavy Rain
+2024-05-07,Air India,AI635,MAA,BOM,83,Weather,Fog
+2024-01-08,Air India,AI926,CCU,HYD,82,Technical,Clear
+2024-05-07,Vistara,VI623,LKO,DEL,160,Weather,Heavy Rain
+2024-04-04,SpiceJet,SP361,BOM,LKO,44,Technical,Clear
+2024-05-10,Indigo,IN145,DEL,HYD,108,Weather,Snow
+2024-02-08,SpiceJet,SP978,DEL,LKO,122,ATC,Clear
+2024-03-23,SpiceJet,SP526,LKO,HYD,161,ATC,Clear
+2024-01-31,GoAir,GO789,DEL,HYD,147,Weather,Fog
+2024-04-12,Indigo,IN998,PNQ,CCU,94,Weather,Thunderstorm
+2024-01-23,GoAir,GO567,DEL,BLR,159,Weather,Thunderstorm
+2024-06-08,SpiceJet,SP575,LKO,MAA,65,Security,Clear
+2024-02-08,Indigo,IN519,DEL,HYD,177,Technical,Clear
+2024-03-26,Indigo,IN877,CCU,PNQ,93,Crew,Clear
+2024-02-22,GoAir,GO343,CCU,BLR,51,Security,Clear
+2024-01-24,Indigo,IN337,CCU,LKO,132,ATC,Clear
+2024-05-28,Indigo,IN617,HYD,CCU,34,ATC,Clear
+2024-04-21,SpiceJet,SP342,MAA,HYD,115,ATC,Clear
+2024-03-22,Vistara,VI378,BLR,DEL,49,Security,Clear
+2024-02-09,Indigo,IN268,PNQ,BLR,45,Weather,Clear
+2024-04-01,SpiceJet,SP562,MAA,BLR,45,Weather,Fog
+2024-02-10,Air India,AI946,DEL,HYD,98,ATC,Clear
+2024-01-24,SpiceJet,SP464,CCU,MAA,91,Weather,Thunderstorm
+2024-02-14,Indigo,IN514,PNQ,MAA,78,Crew,Clear
+2024-04-28,Indigo,IN923,HYD,DEL,71,Weather,Heavy Rain
+2024-02-20,Vistara,VI481,BOM,LKO,34,Technical,Clear
+2024-01-17,SpiceJet,SP761,PNQ,CCU,99,Weather,Fog
+2024-01-11,Vistara,VI151,HYD,LKO,116,Weather,Snow
+2024-01-08,Vistara,VI799,CCU,BOM,62,Weather,Thunderstorm
+2024-03-12,Vistara,VI252,DEL,LKO,77,Technical,Clear
+2024-05-07,Vistara,VI663,PNQ,DEL,113,Weather,Heavy Rain
+2024-04-17,SpiceJet,SP758,BLR,CCU,154,Security,Clear
+2024-04-07,Air India,AI591,PNQ,HYD,143,Security,Clear
+2024-04-09,Air India,AI284,DEL,BLR,22,Technical,Clear
+2024-01-15,Vistara,VI642,LKO,PNQ,74,Technical,Clear
+2024-01-26,SpiceJet,SP772,BLR,HYD,29,Technical,Clear
+2024-05-27,Vistara,VI463,HYD,BOM,96,Weather,Thunderstorm
+2024-05-31,Indigo,IN820,LKO,MAA,159,Technical,Clear
+2024-05-06,GoAir,GO416,HYD,MAA,29,Weather,Heavy Rain
+2024-06-03,SpiceJet,SP120,PNQ,DEL,172,Weather,Heavy Rain
+2024-02-03,Air India,AI834,HYD,PNQ,97,ATC,Clear
+2024-01-06,SpiceJet,SP700,HYD,PNQ,149,Weather,Thunderstorm
+2024-01-19,Air India,AI821,CCU,MAA,92,Weather,Thunderstorm
+2024-02-04,SpiceJet,SP849,CCU,PNQ,139,Technical,Clear
+2024-02-14,GoAir,GO810,LKO,BOM,59,Technical,Clear
+2024-03-19,Air India,AI230,HYD,CCU,161,Weather,Snow
+2024-05-25,Indigo,IN286,LKO,PNQ,71,Security,Clear
+2024-05-07,SpiceJet,SP439,BOM,HYD,96,Weather,Heavy Rain
+2024-06-11,Indigo,IN941,LKO,BLR,68,Weather,Heavy Rain
+2024-06-26,Indigo,IN458,MAA,PNQ,15,Weather,Fog
+2024-04-08,Vistara,VI850,CCU,BOM,141,ATC,Clear
+2024-03-30,GoAir,GO484,BOM,PNQ,162,Weather,Heavy Rain
+2024-02-11,Vistara,VI175,DEL,BLR,81,Weather,Fog
+2024-01-19,Air India,AI274,CCU,BOM,155,Crew,Clear
+2024-03-27,GoAir,GO728,PNQ,LKO,57,Weather,Clear
+2024-04-21,SpiceJet,SP154,BOM,BLR,63,Weather,Snow
+2024-06-27,GoAir,GO839,MAA,CCU,75,Weather,Fog
+2024-01-13,Vistara,VI685,PNQ,BOM,15,Weather,Snow
+2024-01-23,Air India,AI943,PNQ,BOM,67,Weather,Heavy Rain
+2024-06-12,Air India,AI183,PNQ,CCU,116,Weather,Snow
+2024-05-05,Air India,AI193,CCU,BOM,112,Weather,Thunderstorm
+2024-02-17,Vistara,VI145,MAA,BLR,72,Weather,Thunderstorm
+2024-05-24,Indigo,IN254,BOM,DEL,153,Technical,Clear
+2024-05-30,SpiceJet,SP666,DEL,PNQ,148,Weather,Snow
+2024-05-17,Vistara,VI686,BLR,MAA,116,Weather,Fog
+2024-05-08,GoAir,GO629,HYD,DEL,129,Security,Clear
+2024-02-12,SpiceJet,SP927,BLR,BOM,35,Weather,Snow
+2024-02-21,SpiceJet,SP954,MAA,HYD,32,Security,Clear
+2024-04-09,GoAir,GO506,LKO,PNQ,132,Weather,Fog
+2024-06-28,GoAir,GO701,CCU,DEL,52,Weather,Clear
+2024-05-30,GoAir,GO876,BOM,DEL,40,Technical,Clear
+2024-05-17,Air India,AI998,CCU,HYD,139,Weather,Clear
+2024-06-04,Vistara,VI138,HYD,BLR,173,Weather,Clear
+2024-06-23,Vistara,VI139,CCU,HYD,27,Technical,Clear
+2024-03-09,Air India,AI120,LKO,PNQ,94,Crew,Clear
+2024-05-05,Indigo,IN989,BLR,BOM,128,Weather,Thunderstorm
+2024-03-09,Vistara,VI719,BOM,HYD,119,Weather,Snow
+2024-05-12,Air India,AI940,DEL,LKO,31,Crew,Clear
+2024-05-09,Vistara,VI238,DEL,HYD,66,Weather,Fog
+2024-03-04,Indigo,IN567,DEL,BLR,85,Crew,Clear
+2024-04-28,GoAir,GO506,BOM,CCU,110,Weather,Snow
+2024-06-01,Vistara,VI281,PNQ,MAA,103,Technical,Clear
+2024-03-07,Indigo,IN391,DEL,MAA,161,Weather,Heavy Rain
+2024-02-26,SpiceJet,SP793,BLR,HYD,146,Technical,Clear
+2024-06-23,Indigo,IN585,HYD,CCU,17,Weather,Heavy Rain
+2024-03-05,GoAir,GO924,MAA,CCU,179,Security,Clear
+2024-04-18,Vistara,VI972,LKO,BLR,134,Weather,Thunderstorm
+2024-06-22,GoAir,GO944,CCU,MAA,145,Weather,Thunderstorm
+2024-05-23,GoAir,GO723,MAA,HYD,138,Technical,Clear
+2024-03-27,Air India,AI755,LKO,PNQ,91,Weather,Heavy Rain
+2024-02-08,GoAir,GO883,BLR,DEL,168,ATC,Clear
+2024-06-18,Air India,AI797,HYD,CCU,142,Weather,Thunderstorm
+2024-03-07,Vistara,VI514,CCU,LKO,161,Weather,Heavy Rain
+2024-03-28,SpiceJet,SP802,PNQ,LKO,91,Weather,Heavy Rain
+2024-06-17,GoAir,GO285,MAA,DEL,81,Weather,Clear
+2024-02-16,Air India,AI770,BOM,HYD,93,Weather,Snow
+2024-03-25,Air India,AI366,MAA,BLR,135,ATC,Clear
+2024-06-11,GoAir,GO694,BOM,MAA,143,ATC,Clear
+2024-06-23,Vistara,VI642,MAA,BLR,53,Weather,Heavy Rain
+2024-02-21,Air India,AI519,PNQ,BOM,61,Weather,Fog
+2024-05-04,Air India,AI746,HYD,BLR,16,Technical,Clear
+2024-03-11,SpiceJet,SP879,HYD,LKO,140,Crew,Clear
+2024-02-03,GoAir,GO544,CCU,BLR,137,Weather,Snow
+2024-01-02,Indigo,IN646,BLR,CCU,18,Weather,Thunderstorm
+2024-05-15,SpiceJet,SP118,DEL,CCU,72,Crew,Clear
+2024-03-20,SpiceJet,SP205,CCU,MAA,57,Technical,Clear
+2024-01-12,Air India,AI397,PNQ,LKO,149,Technical,Clear
+2024-04-21,SpiceJet,SP450,PNQ,HYD,57,Crew,Clear
+2024-01-05,SpiceJet,SP329,HYD,BOM,165,Crew,Clear
+2024-02-01,Air India,AI828,DEL,MAA,80,ATC,Clear
+2024-06-01,Indigo,IN777,BOM,CCU,27,ATC,Clear
+2024-04-16,Vistara,VI489,BOM,LKO,54,Weather,Heavy Rain
+2024-06-26,Indigo,IN408,CCU,LKO,148,Weather,Thunderstorm
+2024-06-08,GoAir,GO817,HYD,MAA,41,ATC,Clear
+2024-03-13,Indigo,IN903,BOM,MAA,66,Weather,Thunderstorm
+2024-05-13,SpiceJet,SP466,CCU,HYD,155,Weather,Snow
+2024-02-23,Vistara,VI438,BLR,DEL,37,Weather,Fog
+2024-05-26,Vistara,VI252,BOM,PNQ,40,Technical,Clear
+2024-06-13,SpiceJet,SP567,MAA,HYD,40,Weather,Heavy Rain
+2024-01-11,Air India,AI468,LKO,BLR,39,Crew,Clear
+2024-01-03,SpiceJet,SP779,HYD,BLR,127,Weather,Clear
+2024-03-09,Indigo,IN481,LKO,BOM,117,Weather,Snow
+2024-03-10,Vistara,VI806,PNQ,CCU,57,Weather,Fog
+2024-02-03,Indigo,IN964,HYD,DEL,166,Weather,Snow
+2024-05-25,Vistara,VI285,CCU,PNQ,22,Weather,Heavy Rain
+2024-05-03,Vistara,VI215,CCU,BLR,81,Weather,Thunderstorm
+2024-01-04,GoAir,GO885,BLR,CCU,147,ATC,Clear
+2024-04-20,SpiceJet,SP593,LKO,CCU,113,Technical,Clear
+2024-05-22,GoAir,GO155,DEL,CCU,144,Security,Clear
+2024-05-06,SpiceJet,SP176,PNQ,HYD,86,Weather,Fog
+2024-05-09,SpiceJet,SP663,CCU,BLR,35,ATC,Clear
+2024-04-23,GoAir,GO558,BOM,PNQ,95,Weather,Fog
+2024-05-07,Indigo,IN205,CCU,BLR,155,Weather,Fog
+2024-01-24,GoAir,GO733,MAA,LKO,131,Technical,Clear
+2024-04-03,Indigo,IN936,BLR,PNQ,158,Weather,Clear
+2024-06-02,Vistara,VI833,LKO,CCU,39,Weather,Heavy Rain
+2024-01-01,Air India,AI463,MAA,LKO,42,Technical,Clear
+2024-02-12,Vistara,VI243,CCU,DEL,65,Weather,Heavy Rain
+2024-01-31,Vistara,VI320,PNQ,CCU,101,Crew,Clear
+2024-04-16,Indigo,IN748,BOM,PNQ,132,ATC,Clear
+2024-05-07,Indigo,IN643,DEL,LKO,164,Security,Clear
+2024-05-10,SpiceJet,SP808,HYD,CCU,41,ATC,Clear
+2024-06-17,GoAir,GO720,LKO,MAA,122,ATC,Clear
+2024-03-11,Vistara,VI451,MAA,BLR,50,ATC,Clear
+2024-06-03,GoAir,GO406,LKO,CCU,156,Crew,Clear
+2024-02-21,SpiceJet,SP739,MAA,CCU,48,Weather,Heavy Rain
+2024-05-08,GoAir,GO810,LKO,CCU,105,Weather,Clear
+2024-05-02,GoAir,GO684,CCU,LKO,151,Crew,Clear
+2024-04-18,Indigo,IN635,BOM,DEL,28,Weather,Fog
+2024-02-21,Air India,AI868,HYD,BLR,52,Technical,Clear
+2024-06-25,Air India,AI308,DEL,BLR,41,ATC,Clear
+2024-06-14,GoAir,GO498,BLR,LKO,88,Crew,Clear
+2024-04-07,Vistara,VI526,LKO,MAA,79,Weather,Heavy Rain
+2024-06-07,Vistara,VI949,BLR,CCU,180,Crew,Clear
+2024-05-30,GoAir,GO856,BLR,PNQ,64,Crew,Clear
+2024-04-24,SpiceJet,SP799,BOM,HYD,146,Security,Clear
+2024-04-06,Indigo,IN538,MAA,LKO,56,Weather,Clear
+2024-03-06,Indigo,IN438,PNQ,LKO,25,Security,Clear
+2024-03-23,GoAir,GO152,MAA,BLR,155,Crew,Clear
+2024-01-19,Air India,AI638,BLR,BOM,144,Technical,Clear
+2024-04-16,GoAir,GO649,CCU,DEL,69,Weather,Thunderstorm
+2024-03-25,Air India,AI400,BLR,PNQ,136,Technical,Clear
+2024-01-30,Air India,AI556,BLR,CCU,174,Technical,Clear
+2024-01-11,Air India,AI490,BOM,MAA,87,Weather,Fog
+2024-05-12,Air India,AI626,PNQ,BLR,64,Weather,Thunderstorm
+2024-05-11,Indigo,IN198,HYD,PNQ,16,Technical,Clear
+2024-02-23,SpiceJet,SP985,CCU,PNQ,152,Weather,Snow
+2024-06-14,Indigo,IN864,HYD,DEL,99,Weather,Fog
+2024-01-23,Indigo,IN155,HYD,PNQ,33,Weather,Clear
+2024-02-28,Air India,AI517,CCU,BLR,125,Technical,Clear
+2024-01-05,Vistara,VI789,BOM,LKO,173,Weather,Fog
+2024-05-29,Indigo,IN817,BOM,BLR,42,Security,Clear
+2024-06-24,Air India,AI721,BOM,BLR,127,Crew,Clear
+2024-04-11,Indigo,IN585,HYD,LKO,115,Weather,Clear
+2024-03-16,SpiceJet,SP405,LKO,DEL,157,Technical,Clear
+2024-02-01,Indigo,IN105,CCU,MAA,36,Technical,Clear
+2024-02-23,Air India,AI316,CCU,LKO,51,ATC,Clear
+2024-02-17,SpiceJet,SP731,MAA,BOM,160,Weather,Fog
+2024-05-20,Vistara,VI760,BOM,BLR,79,Technical,Clear
+2024-02-20,GoAir,GO598,LKO,HYD,75,Weather,Fog
+2024-03-13,GoAir,GO171,BLR,HYD,99,Weather,Clear
+2024-06-17,Air India,AI810,HYD,LKO,95,Technical,Clear
+2024-02-13,Indigo,IN420,BLR,PNQ,179,Weather,Snow
+2024-03-11,Air India,AI237,LKO,BLR,106,Weather,Thunderstorm
+2024-05-04,GoAir,GO211,HYD,CCU,86,Technical,Clear
+2024-05-17,SpiceJet,SP369,BOM,CCU,19,Weather,Clear
+2024-06-10,Indigo,IN932,CCU,PNQ,24,Technical,Clear
+2024-05-19,GoAir,GO583,HYD,BLR,165,Weather,Thunderstorm
+2024-02-04,Vistara,VI613,BOM,MAA,17,Weather,Heavy Rain
+2024-06-06,SpiceJet,SP875,HYD,MAA,159,Weather,Clear
+2024-06-17,SpiceJet,SP853,PNQ,HYD,139,Weather,Heavy Rain
+2024-01-17,Air India,AI478,BLR,DEL,147,Technical,Clear
+2024-04-09,Vistara,VI565,DEL,BOM,97,Security,Clear
+2024-06-29,GoAir,GO748,MAA,PNQ,163,Crew,Clear
+2024-04-06,Vistara,VI474,BOM,LKO,72,Weather,Clear
+2024-04-13,Air India,AI936,LKO,BLR,169,Crew,Clear
+2024-05-08,SpiceJet,SP550,HYD,BOM,179,Weather,Thunderstorm
+2024-02-24,SpiceJet,SP291,HYD,BLR,45,Technical,Clear
+2024-04-16,Air India,AI837,BOM,MAA,137,Technical,Clear
+2024-05-31,SpiceJet,SP762,CCU,DEL,47,Weather,Clear
+2024-05-31,SpiceJet,SP237,DEL,LKO,57,Weather,Thunderstorm
+2024-02-16,GoAir,GO515,DEL,CCU,87,Crew,Clear
+2024-02-25,Vistara,VI721,PNQ,CCU,71,Weather,Snow
+2024-06-02,SpiceJet,SP913,HYD,LKO,82,Technical,Clear
+2024-06-24,Air India,AI564,BOM,HYD,48,Weather,Fog
+2024-01-05,SpiceJet,SP635,CCU,PNQ,39,Weather,Heavy Rain
+2024-05-01,GoAir,GO714,DEL,PNQ,45,Technical,Clear
+2024-05-03,SpiceJet,SP717,DEL,PNQ,125,Technical,Clear
+2024-04-04,Indigo,IN814,CCU,BOM,138,Security,Clear
+2024-03-30,GoAir,GO923,BOM,MAA,137,Weather,Heavy Rain
+2024-01-22,Air India,AI712,CCU,HYD,16,Weather,Clear
+2024-05-13,Indigo,IN632,DEL,MAA,95,Technical,Clear
+2024-04-02,Indigo,IN258,CCU,LKO,81,Technical,Clear
+2024-05-24,Air India,AI726,MAA,CCU,67,Weather,Snow
+2024-05-21,GoAir,GO594,HYD,BLR,138,Technical,Clear
+2024-03-19,GoAir,GO452,CCU,LKO,45,Weather,Heavy Rain
+2024-04-24,SpiceJet,SP202,BLR,LKO,101,Weather,Clear
+2024-06-06,Indigo,IN264,CCU,LKO,38,Weather,Heavy Rain
+2024-04-30,GoAir,GO545,BOM,DEL,109,Weather,Fog
+2024-06-04,Indigo,IN841,CCU,BLR,148,Technical,Clear
+2024-06-01,Indigo,IN892,HYD,CCU,17,Weather,Heavy Rain
+2024-06-17,GoAir,GO392,BLR,DEL,145,Crew,Clear
+2024-06-06,SpiceJet,SP790,DEL,BLR,15,Weather,Heavy Rain
+2024-01-23,Air India,AI898,CCU,HYD,118,Technical,Clear
+2024-05-12,Indigo,IN854,BOM,DEL,158,Technical,Clear
+2024-03-29,Air India,AI331,BLR,MAA,162,Security,Clear
+2024-03-07,SpiceJet,SP516,BOM,LKO,90,Weather,Thunderstorm
+2024-01-30,GoAir,GO363,MAA,CCU,111,Weather,Clear
+2024-05-03,SpiceJet,SP875,LKO,PNQ,132,Weather,Clear
+2024-01-08,Vistara,VI219,MAA,DEL,71,Weather,Heavy Rain
+2024-03-21,Vistara,VI461,DEL,CCU,78,ATC,Clear
+2024-01-24,Vistara,VI789,LKO,DEL,60,Technical,Clear
+2024-03-21,Air India,AI323,MAA,BOM,63,Security,Clear
+2024-02-21,SpiceJet,SP853,BLR,PNQ,73,Weather,Heavy Rain
+2024-03-04,GoAir,GO464,HYD,PNQ,35,Weather,Snow
+2024-06-06,Indigo,IN882,DEL,PNQ,173,Weather,Thunderstorm
+2024-05-06,GoAir,GO989,MAA,BLR,145,Weather,Thunderstorm
+2024-04-11,SpiceJet,SP868,HYD,DEL,123,Technical,Clear
+2024-05-18,Indigo,IN614,LKO,BLR,59,ATC,Clear
+2024-01-31,GoAir,GO571,LKO,CCU,68,Weather,Snow
+2024-05-28,Indigo,IN433,LKO,MAA,62,ATC,Clear
+2024-03-01,Air India,AI582,LKO,HYD,123,Weather,Heavy Rain
+2024-04-17,Air India,AI473,CCU,HYD,161,Weather,Heavy Rain
+2024-05-27,SpiceJet,SP933,BOM,CCU,75,Weather,Clear
+2024-04-20,Vistara,VI300,HYD,PNQ,53,Security,Clear
+2024-01-03,SpiceJet,SP531,PNQ,BOM,176,Security,Clear
+2024-05-04,Air India,AI356,DEL,MAA,56,Weather,Fog
+2024-02-25,Air India,AI587,BOM,MAA,81,Crew,Clear
+2024-04-02,GoAir,GO670,MAA,HYD,46,Weather,Thunderstorm
+2024-06-22,GoAir,GO303,HYD,PNQ,98,Weather,Clear
+2024-05-04,Vistara,VI180,CCU,MAA,176,Weather,Heavy Rain
+2024-02-12,Air India,AI531,CCU,PNQ,35,Security,Clear
+2024-03-28,SpiceJet,SP421,LKO,CCU,83,Weather,Clear
+2024-06-14,Vistara,VI377,PNQ,CCU,107,ATC,Clear
+2024-04-15,SpiceJet,SP288,DEL,HYD,79,Crew,Clear
+2024-02-23,SpiceJet,SP506,BOM,DEL,136,Weather,Clear
+2024-01-14,Indigo,IN889,CCU,MAA,36,Crew,Clear
+2024-03-08,GoAir,GO259,BOM,CCU,114,Security,Clear
+2024-02-28,SpiceJet,SP855,MAA,BLR,48,Technical,Clear
+2024-01-08,Indigo,IN779,LKO,PNQ,136,Security,Clear
+2024-05-18,Air India,AI661,PNQ,BOM,153,Security,Clear
+2024-05-31,GoAir,GO567,CCU,MAA,151,Technical,Clear
+2024-03-29,Vistara,VI652,BLR,PNQ,93,Weather,Thunderstorm
+2024-04-15,Air India,AI259,MAA,DEL,49,Weather,Thunderstorm
+2024-03-14,Vistara,VI647,DEL,CCU,137,Security,Clear
+2024-01-03,Vistara,VI917,MAA,LKO,16,Weather,Clear
+2024-04-05,SpiceJet,SP521,CCU,BLR,180,Weather,Snow
+2024-04-06,SpiceJet,SP369,BOM,MAA,147,Technical,Clear
+2024-03-13,GoAir,GO928,MAA,BLR,32,Weather,Heavy Rain
+2024-02-04,Air India,AI213,PNQ,MAA,174,Weather,Snow
+2024-02-18,Air India,AI119,HYD,DEL,20,Security,Clear
+2024-01-27,Air India,AI375,HYD,CCU,17,Weather,Heavy Rain
+2024-01-24,SpiceJet,SP115,PNQ,BOM,94,Weather,Snow
+2024-04-05,Vistara,VI813,DEL,BLR,52,Weather,Fog
+2024-03-09,Vistara,VI173,PNQ,BOM,79,Weather,Snow
+2024-01-04,Indigo,IN886,BLR,MAA,128,Crew,Clear
+2024-01-09,SpiceJet,SP571,BOM,LKO,68,Technical,Clear
+2024-04-09,Air India,AI430,HYD,CCU,155,Crew,Clear
+2024-03-05,Vistara,VI753,MAA,BOM,28,Weather,Heavy Rain
+2024-01-29,SpiceJet,SP748,CCU,HYD,85,Weather,Clear
+2024-01-31,Vistara,VI908,BLR,DEL,163,Security,Clear
+2024-06-25,GoAir,GO258,LKO,PNQ,55,Weather,Snow
+2024-01-24,GoAir,GO446,DEL,BOM,54,Weather,Clear
+2024-01-28,SpiceJet,SP599,BLR,HYD,180,Security,Clear
+2024-04-22,SpiceJet,SP121,CCU,HYD,79,Crew,Clear
+2024-05-04,Vistara,VI672,MAA,LKO,63,Technical,Clear
+2024-05-19,Air India,AI431,PNQ,HYD,168,ATC,Clear
+2024-01-18,GoAir,GO258,PNQ,HYD,153,ATC,Clear
+2024-04-26,Indigo,IN894,CCU,LKO,19,Weather,Clear
+2024-04-03,GoAir,GO344,LKO,CCU,152,Weather,Snow
+2024-02-18,GoAir,GO799,PNQ,CCU,171,Technical,Clear
+2024-03-23,Vistara,VI756,LKO,DEL,32,Weather,Fog
+2024-02-03,SpiceJet,SP994,DEL,HYD,64,Weather,Fog
+2024-01-09,GoAir,GO757,CCU,LKO,174,Weather,Clear
+2024-03-06,Indigo,IN475,BLR,LKO,18,Crew,Clear
+2024-06-16,Vistara,VI952,BOM,MAA,30,ATC,Clear
+2024-05-22,Vistara,VI941,LKO,PNQ,172,Crew,Clear
+2024-05-15,Indigo,IN851,BOM,PNQ,70,Weather,Clear
+2024-01-25,Indigo,IN842,BLR,LKO,64,Weather,Clear
+2024-06-17,SpiceJet,SP683,HYD,LKO,121,Crew,Clear
+2024-06-12,GoAir,GO466,PNQ,LKO,41,Technical,Clear
+2024-02-16,GoAir,GO511,LKO,CCU,168,Weather,Snow
+2024-03-31,Air India,AI663,LKO,PNQ,177,Weather,Snow
+2024-03-23,GoAir,GO346,BLR,MAA,80,Crew,Clear
+2024-04-25,Vistara,VI506,DEL,CCU,87,Weather,Clear
+2024-01-05,GoAir,GO238,MAA,DEL,71,Weather,Heavy Rain
+2024-03-21,Indigo,IN890,MAA,LKO,161,Technical,Clear
+2024-01-25,Indigo,IN571,LKO,BOM,108,Weather,Clear
+2024-03-04,SpiceJet,SP362,MAA,DEL,160,Technical,Clear
+2024-01-20,Air India,AI911,PNQ,BOM,162,Weather,Fog
+2024-06-01,Air India,AI138,CCU,DEL,100,Crew,Clear
+2024-04-21,Vistara,VI988,BOM,PNQ,169,Crew,Clear
+2024-06-11,Vistara,VI155,MAA,LKO,153,Weather,Clear
+2024-02-08,Air India,AI614,BLR,BOM,115,Weather,Snow
+2024-06-01,GoAir,GO616,BOM,HYD,115,Weather,Heavy Rain
+2024-02-03,Air India,AI184,PNQ,MAA,155,Crew,Clear
+2024-03-08,Indigo,IN508,CCU,PNQ,49,Technical,Clear
+2024-05-23,SpiceJet,SP599,CCU,LKO,158,Technical,Clear
+2024-03-03,Indigo,IN372,CCU,HYD,162,Technical,Clear
+2024-01-29,Vistara,VI533,LKO,HYD,103,Weather,Clear
+2024-06-16,Indigo,IN888,MAA,BOM,172,Security,Clear
+2024-06-08,SpiceJet,SP551,DEL,PNQ,110,Weather,Heavy Rain
+2024-01-22,Indigo,IN857,DEL,HYD,52,Security,Clear
+2024-01-04,Air India,AI810,BOM,BLR,20,Weather,Thunderstorm
+2024-02-23,GoAir,GO316,BLR,LKO,81,Technical,Clear
+2024-06-08,SpiceJet,SP811,DEL,MAA,149,Technical,Clear
+2024-03-06,SpiceJet,SP161,MAA,BOM,173,Crew,Clear
+2024-01-14,Vistara,VI770,DEL,BOM,84,Weather,Thunderstorm
+2024-01-28,Indigo,IN399,CCU,BOM,145,Security,Clear
+2024-03-21,Vistara,VI987,BOM,HYD,132,Weather,Clear
+2024-01-06,Indigo,IN353,MAA,HYD,55,Weather,Fog
+2024-03-29,Air India,AI463,MAA,BOM,143,Security,Clear
+2024-01-16,Air India,AI999,CCU,PNQ,157,Security,Clear
+2024-02-27,SpiceJet,SP449,CCU,LKO,112,Weather,Clear
+2024-06-22,GoAir,GO993,BLR,MAA,54,Weather,Snow
+2024-03-20,GoAir,GO437,PNQ,MAA,50,Weather,Clear
+2024-05-18,SpiceJet,SP983,HYD,BLR,149,Technical,Clear
+2024-04-20,SpiceJet,SP771,HYD,BLR,151,Weather,Fog
+2024-02-17,Air India,AI959,HYD,CCU,96,Weather,Snow
+2024-04-15,Air India,AI553,MAA,BOM,42,Crew,Clear
+2024-02-17,Indigo,IN880,MAA,LKO,74,Technical,Clear
+2024-02-29,Indigo,IN467,BOM,CCU,49,Crew,Clear
+2024-06-15,Air India,AI288,CCU,BLR,56,Weather,Heavy Rain
+2024-02-27,Indigo,IN518,DEL,BLR,71,Security,Clear
+2024-02-22,Indigo,IN281,PNQ,CCU,98,Technical,Clear
+2024-03-04,Vistara,VI514,DEL,LKO,112,Crew,Clear
+2024-04-10,GoAir,GO860,DEL,LKO,131,Weather,Fog
+2024-03-03,GoAir,GO650,CCU,LKO,114,Weather,Clear
+2024-06-10,Indigo,IN294,MAA,BLR,92,Weather,Thunderstorm
+2024-04-28,SpiceJet,SP532,MAA,LKO,147,Security,Clear
+2024-04-28,Vistara,VI192,BOM,HYD,154,Crew,Clear
+2024-04-10,Vistara,VI431,PNQ,DEL,166,Weather,Heavy Rain
+2024-04-26,Indigo,IN356,LKO,CCU,56,Technical,Clear
+2024-01-24,Indigo,IN823,PNQ,LKO,149,Weather,Snow
+2024-05-10,GoAir,GO263,CCU,MAA,58,Weather,Thunderstorm
+2024-05-24,SpiceJet,SP266,HYD,BOM,28,Crew,Clear
+2024-03-19,Air India,AI847,PNQ,HYD,45,Technical,Clear
+2024-02-21,Indigo,IN737,MAA,DEL,142,Weather,Clear
+2024-01-02,GoAir,GO605,BLR,BOM,136,Technical,Clear
+2024-04-14,Vistara,VI181,DEL,HYD,86,ATC,Clear
+2024-01-13,SpiceJet,SP251,DEL,CCU,52,Weather,Fog
+2024-06-19,GoAir,GO958,MAA,HYD,27,Security,Clear
+2024-04-16,SpiceJet,SP265,MAA,LKO,167,Technical,Clear
+2024-04-26,GoAir,GO468,DEL,BOM,97,Crew,Clear
+2024-04-07,Indigo,IN876,CCU,PNQ,89,Technical,Clear
+2024-02-04,Indigo,IN811,MAA,HYD,149,Technical,Clear
+2024-06-27,SpiceJet,SP726,DEL,BOM,176,Technical,Clear
+2024-05-03,GoAir,GO907,MAA,BLR,96,Technical,Clear
+2024-05-14,GoAir,GO738,LKO,BOM,142,Technical,Clear
+2024-05-06,SpiceJet,SP724,BLR,CCU,64,Weather,Fog
+2024-01-31,Indigo,IN576,BOM,CCU,172,ATC,Clear
+2024-04-15,Indigo,IN441,LKO,MAA,69,ATC,Clear
+2024-06-12,SpiceJet,SP806,MAA,HYD,93,Crew,Clear
+2024-05-09,GoAir,GO431,DEL,BOM,102,Technical,Clear
+2024-05-25,GoAir,GO129,HYD,BOM,101,Weather,Snow
+2024-05-01,Indigo,IN761,HYD,MAA,132,Weather,Clear
+2024-03-26,Vistara,VI902,CCU,LKO,148,Weather,Thunderstorm
+2024-05-24,Air India,AI668,DEL,HYD,99,Technical,Clear
+2024-01-17,SpiceJet,SP387,DEL,BLR,175,Security,Clear
+2024-05-26,GoAir,GO498,HYD,LKO,93,Weather,Thunderstorm
+2024-01-09,Air India,AI523,BOM,MAA,110,ATC,Clear
+2024-03-18,SpiceJet,SP637,MAA,BOM,24,Weather,Heavy Rain
+2024-01-24,Vistara,VI618,DEL,PNQ,143,Weather,Heavy Rain
+2024-02-18,Air India,AI595,MAA,PNQ,40,Weather,Clear
+2024-06-22,SpiceJet,SP310,DEL,MAA,148,Weather,Fog
+2024-01-02,Air India,AI145,BOM,BLR,26,Weather,Fog
+2024-05-13,Air India,AI123,MAA,CCU,97,ATC,Clear
+2024-02-19,Air India,AI383,LKO,PNQ,45,Weather,Thunderstorm
+2024-02-08,SpiceJet,SP380,BOM,DEL,158,Security,Clear
+2024-02-22,GoAir,GO458,LKO,HYD,87,Weather,Clear
+2024-03-03,SpiceJet,SP172,MAA,LKO,153,ATC,Clear
+2024-01-13,SpiceJet,SP129,PNQ,LKO,113,Weather,Fog
+2024-01-23,Vistara,VI501,HYD,CCU,166,Technical,Clear
+2024-06-06,Air India,AI419,LKO,PNQ,151,Weather,Fog
+2024-04-29,GoAir,GO234,BOM,PNQ,134,ATC,Clear
+2024-04-26,Air India,AI800,PNQ,BLR,72,Weather,Heavy Rain
+2024-06-06,Air India,AI472,CCU,BOM,99,Technical,Clear
+2024-04-26,Vistara,VI130,BOM,MAA,137,Weather,Snow
+2024-02-13,Air India,AI886,LKO,MAA,145,Technical,Clear
+2024-04-13,Indigo,IN433,BOM,PNQ,133,Weather,Snow
+2024-05-31,Vistara,VI344,BLR,LKO,138,Weather,Snow
+2024-01-17,Air India,AI313,CCU,PNQ,160,Security,Clear
+2024-05-19,SpiceJet,SP277,BOM,CCU,161,Security,Clear
+2024-01-30,GoAir,GO710,PNQ,HYD,128,Technical,Clear
+2024-03-19,Vistara,VI171,BOM,CCU,112,ATC,Clear
+2024-05-06,Indigo,IN192,BLR,PNQ,163,Weather,Fog
+2024-02-07,SpiceJet,SP563,MAA,BLR,129,Technical,Clear
+2024-02-22,Air India,AI406,MAA,BLR,103,Crew,Clear
+2024-05-29,Indigo,IN726,CCU,PNQ,90,Weather,Fog
+2024-04-04,GoAir,GO154,DEL,CCU,106,Technical,Clear
+2024-03-13,Indigo,IN340,CCU,LKO,175,Technical,Clear
+2024-04-07,Vistara,VI490,CCU,MAA,59,Weather,Snow
+2024-02-05,SpiceJet,SP668,CCU,PNQ,121,Security,Clear
+2024-03-14,SpiceJet,SP237,DEL,BOM,51,Technical,Clear
+2024-06-17,Vistara,VI239,BOM,HYD,121,Technical,Clear
+2024-06-27,GoAir,GO535,HYD,MAA,156,Technical,Clear
+2024-04-08,Air India,AI331,HYD,MAA,162,Technical,Clear
+2024-03-01,GoAir,GO375,CCU,MAA,23,Technical,Clear
+2024-05-25,Vistara,VI821,LKO,DEL,35,Technical,Clear
+2024-05-14,Air India,AI576,BOM,LKO,37,ATC,Clear
+2024-04-30,Indigo,IN800,MAA,LKO,102,Weather,Clear
+2024-01-03,Vistara,VI564,PNQ,MAA,122,Crew,Clear
+2024-03-16,Air India,AI271,DEL,CCU,92,Security,Clear
+2024-01-16,Vistara,VI692,HYD,LKO,89,Weather,Clear
+2024-01-07,Air India,AI596,BOM,HYD,86,Technical,Clear
+2024-02-03,GoAir,GO387,MAA,PNQ,43,Weather,Clear
+2024-02-14,GoAir,GO856,HYD,CCU,59,Weather,Thunderstorm
+2024-06-28,SpiceJet,SP596,HYD,PNQ,23,Technical,Clear
+2024-01-22,SpiceJet,SP709,HYD,PNQ,120,Weather,Snow
+2024-03-01,Vistara,VI843,HYD,BOM,103,Technical,Clear
+2024-06-13,Air India,AI873,BOM,DEL,117,Weather,Snow
+2024-03-18,Vistara,VI864,BLR,MAA,114,Technical,Clear
+2024-03-08,SpiceJet,SP643,CCU,DEL,129,Weather,Snow
+2024-06-22,Air India,AI642,DEL,BOM,178,Security,Clear
+2024-04-20,GoAir,GO767,MAA,HYD,40,Weather,Thunderstorm
+2024-06-16,GoAir,GO500,PNQ,CCU,76,Technical,Clear
+2024-05-13,Air India,AI793,HYD,BLR,17,Technical,Clear
+2024-01-04,Vistara,VI200,BOM,CCU,71,Weather,Thunderstorm
+2024-03-05,SpiceJet,SP134,DEL,LKO,167,Weather,Heavy Rain
+2024-06-02,Indigo,IN825,BOM,DEL,48,ATC,Clear
+2024-06-17,GoAir,GO922,HYD,DEL,79,Technical,Clear
+2024-04-29,Indigo,IN754,PNQ,HYD,97,Crew,Clear
+2024-02-11,Indigo,IN383,DEL,MAA,30,Weather,Thunderstorm
+2024-03-08,SpiceJet,SP551,BOM,MAA,66,Security,Clear
+2024-02-15,Vistara,VI211,HYD,LKO,70,Crew,Clear
+2024-04-23,Air India,AI205,DEL,BOM,79,Weather,Snow
+2024-01-05,Vistara,VI252,DEL,BOM,83,Technical,Clear
+2024-06-28,Air India,AI500,DEL,LKO,140,Crew,Clear
+2024-04-21,Vistara,VI964,BOM,LKO,113,Weather,Snow
+2024-02-01,GoAir,GO648,LKO,HYD,117,Technical,Clear
+2024-06-10,Indigo,IN474,LKO,DEL,89,ATC,Clear
+2024-02-15,GoAir,GO140,CCU,LKO,114,Weather,Fog
+2024-06-10,Air India,AI598,BOM,CCU,63,Weather,Heavy Rain
+2024-01-10,SpiceJet,SP125,BLR,MAA,153,Weather,Thunderstorm
+2024-05-07,GoAir,GO954,PNQ,DEL,29,Weather,Thunderstorm
+2024-01-11,Vistara,VI221,BLR,PNQ,148,Technical,Clear
+2024-06-22,GoAir,GO252,BLR,DEL,51,Weather,Snow
+2024-06-16,Indigo,IN582,DEL,HYD,48,Crew,Clear
+2024-02-14,Indigo,IN414,BOM,MAA,166,Technical,Clear
+2024-01-28,Indigo,IN609,BLR,DEL,124,ATC,Clear
+2024-06-22,Vistara,VI432,BOM,CCU,50,Technical,Clear
+2024-02-24,Indigo,IN707,HYD,BLR,85,Weather,Heavy Rain
+2024-04-16,SpiceJet,SP813,LKO,MAA,77,Weather,Clear
+2024-01-11,SpiceJet,SP202,CCU,PNQ,139,Weather,Fog
+2024-01-02,Indigo,IN283,BOM,CCU,87,Technical,Clear
+2024-06-26,Vistara,VI808,HYD,BOM,84,Weather,Clear
+2024-04-25,Vistara,VI344,HYD,LKO,167,Technical,Clear
+2024-05-07,GoAir,GO190,MAA,HYD,157,Weather,Heavy Rain
+2024-02-19,Indigo,IN642,BOM,LKO,153,Weather,Clear
+2024-02-26,Vistara,VI888,BLR,HYD,43,Weather,Heavy Rain
+2024-06-24,Vistara,VI609,HYD,BOM,26,Technical,Clear
+2024-06-14,Air India,AI391,BLR,MAA,172,Weather,Snow
+2024-01-12,Indigo,IN858,DEL,LKO,22,Weather,Snow
+2024-05-11,Indigo,IN172,BLR,CCU,163,Weather,Thunderstorm
+2024-04-17,SpiceJet,SP865,LKO,BOM,98,Crew,Clear
+2024-01-26,SpiceJet,SP855,CCU,PNQ,71,Weather,Fog
+2024-04-30,GoAir,GO596,DEL,MAA,171,Weather,Snow
+2024-02-15,Vistara,VI482,HYD,MAA,176,Crew,Clear
+2024-03-10,SpiceJet,SP443,HYD,DEL,30,Technical,Clear
+2024-02-04,Indigo,IN972,PNQ,BLR,102,Weather,Heavy Rain
+2024-03-16,GoAir,GO260,HYD,LKO,73,Security,Clear
+2024-04-15,GoAir,GO600,BLR,LKO,133,Weather,Thunderstorm
+2024-01-04,Vistara,VI853,BLR,BOM,163,Weather,Heavy Rain
+2024-05-31,SpiceJet,SP687,DEL,MAA,25,Security,Clear
+2024-05-09,Indigo,IN535,CCU,BLR,40,ATC,Clear
+2024-05-06,SpiceJet,SP185,DEL,CCU,70,Crew,Clear
+2024-04-01,Air India,AI344,BOM,DEL,93,Weather,Heavy Rain
+2024-06-29,Vistara,VI978,DEL,MAA,50,Weather,Snow
+2024-02-17,Air India,AI741,PNQ,LKO,175,Technical,Clear
+2024-04-08,Air India,AI643,DEL,BLR,84,Weather,Clear
+2024-05-18,GoAir,GO913,BLR,PNQ,173,Technical,Clear
+2024-01-15,GoAir,GO790,LKO,DEL,108,Weather,Snow
+2024-06-07,Indigo,IN474,LKO,BOM,32,Technical,Clear
+2024-02-05,Air India,AI344,BOM,CCU,163,Weather,Heavy Rain
+2024-02-27,Air India,AI461,MAA,LKO,85,Technical,Clear
+2024-01-17,Air India,AI453,PNQ,BLR,46,Technical,Clear
+2024-05-16,GoAir,GO399,PNQ,MAA,31,Weather,Heavy Rain
+2024-04-27,Indigo,IN182,CCU,BOM,34,Weather,Fog
+2024-02-12,Air India,AI214,HYD,MAA,67,Weather,Clear
+2024-06-09,Indigo,IN400,CCU,LKO,48,Technical,Clear
+2024-03-29,Vistara,VI554,DEL,BLR,20,Weather,Heavy Rain
+2024-05-13,Air India,AI521,LKO,CCU,98,Technical,Clear
+2024-05-31,GoAir,GO962,PNQ,BLR,48,Weather,Thunderstorm
+2024-02-13,Air India,AI332,PNQ,HYD,27,Security,Clear
+2024-03-31,Air India,AI566,HYD,LKO,152,Security,Clear
+2024-02-16,SpiceJet,SP959,HYD,BOM,25,Weather,Thunderstorm
+2024-05-27,SpiceJet,SP551,MAA,HYD,158,Weather,Fog
+2024-06-19,Air India,AI452,HYD,BLR,56,Weather,Clear
+2024-03-18,Indigo,IN125,CCU,BLR,132,Crew,Clear
+2024-02-09,Indigo,IN856,LKO,CCU,136,Crew,Clear
+2024-05-26,SpiceJet,SP918,PNQ,HYD,137,Technical,Clear
+2024-02-05,GoAir,GO219,MAA,DEL,71,Weather,Snow
+2024-04-01,Indigo,IN434,DEL,LKO,164,Technical,Clear
+2024-03-12,SpiceJet,SP123,BOM,LKO,37,ATC,Clear
+2024-02-19,Vistara,VI425,DEL,CCU,52,Weather,Snow
+2024-04-04,Vistara,VI481,DEL,BLR,93,Weather,Snow
+2024-05-23,Indigo,IN320,PNQ,LKO,128,Security,Clear
+2024-02-11,Vistara,VI846,CCU,BOM,168,ATC,Clear
+2024-02-06,SpiceJet,SP410,PNQ,CCU,100,Technical,Clear
+2024-05-31,Vistara,VI190,DEL,MAA,84,Technical,Clear
+2024-02-14,GoAir,GO573,HYD,BOM,112,Weather,Thunderstorm
+2024-05-21,Vistara,VI143,MAA,PNQ,141,Technical,Clear
+2024-02-27,Indigo,IN910,DEL,HYD,178,Weather,Snow
+2024-02-01,Air India,AI527,HYD,MAA,180,Security,Clear
+2024-01-08,Indigo,IN883,MAA,BLR,32,Security,Clear
+2024-05-28,Vistara,VI679,CCU,PNQ,136,Weather,Fog
+2024-04-05,GoAir,GO850,DEL,PNQ,163,Weather,Fog
+2024-02-07,Air India,AI572,HYD,BLR,84,Weather,Thunderstorm
+2024-04-17,Air India,AI149,MAA,HYD,34,Technical,Clear
+2024-06-09,SpiceJet,SP883,BOM,LKO,154,Crew,Clear
+2024-03-21,Air India,AI377,LKO,DEL,105,Technical,Clear
+2024-01-04,SpiceJet,SP630,MAA,HYD,120,Crew,Clear
+2024-02-11,Indigo,IN323,HYD,LKO,63,Weather,Clear
+2024-06-06,GoAir,GO966,BOM,MAA,34,Weather,Fog
+2024-02-03,Indigo,IN591,LKO,HYD,50,Technical,Clear
+2024-06-01,GoAir,GO881,LKO,BOM,22,Crew,Clear
+2024-02-26,SpiceJet,SP977,HYD,CCU,47,Weather,Heavy Rain
+2024-02-03,Indigo,IN535,BOM,DEL,138,Weather,Snow
+2024-01-11,SpiceJet,SP210,DEL,PNQ,166,Technical,Clear
+2024-04-30,Indigo,IN359,DEL,BOM,17,Weather,Fog
+2024-02-01,GoAir,GO310,BLR,BOM,22,Technical,Clear
+2024-02-07,Air India,AI693,LKO,HYD,143,Weather,Clear
+2024-03-02,GoAir,GO683,BOM,DEL,18,ATC,Clear
+2024-02-19,Air India,AI275,DEL,CCU,69,Weather,Clear
+2024-05-01,Air India,AI814,HYD,MAA,42,Technical,Clear
+2024-03-31,Vistara,VI534,BLR,LKO,43,Weather,Thunderstorm
+2024-02-01,Vistara,VI212,HYD,MAA,88,Crew,Clear
+2024-01-22,Air India,AI605,BOM,MAA,168,Weather,Thunderstorm
+2024-06-24,Vistara,VI331,CCU,HYD,124,Security,Clear
+2024-01-18,Vistara,VI795,LKO,BOM,140,Weather,Fog
+2024-04-11,Vistara,VI635,BOM,DEL,117,Weather,Clear
+2024-01-27,SpiceJet,SP166,LKO,BOM,167,Weather,Snow
+2024-02-01,SpiceJet,SP958,CCU,LKO,163,Weather,Clear
+2024-03-10,Vistara,VI464,PNQ,LKO,118,Technical,Clear
+2024-05-10,Air India,AI250,PNQ,DEL,140,Weather,Snow
+2024-02-29,SpiceJet,SP130,BOM,CCU,32,Weather,Snow
+2024-06-22,Indigo,IN283,CCU,MAA,54,Technical,Clear
+2024-06-08,GoAir,GO198,BOM,CCU,141,Crew,Clear
+2024-02-21,Air India,AI777,PNQ,BLR,153,Technical,Clear
+2024-05-18,GoAir,GO118,DEL,MAA,45,ATC,Clear
+2024-04-25,Air India,AI973,CCU,BLR,23,Weather,Heavy Rain
+2024-05-22,Air India,AI823,HYD,MAA,94,Weather,Snow
+2024-05-04,Indigo,IN682,PNQ,LKO,153,Technical,Clear
+2024-05-01,GoAir,GO974,HYD,LKO,82,Weather,Snow
+2024-05-31,Vistara,VI731,LKO,PNQ,97,Security,Clear
+2024-01-08,GoAir,GO146,HYD,PNQ,164,Weather,Fog
+2024-06-09,Air India,AI489,BOM,MAA,106,Weather,Snow
+2024-03-30,Indigo,IN777,BLR,BOM,94,Weather,Clear
+2024-01-22,Indigo,IN989,MAA,DEL,20,Weather,Clear
+2024-03-24,Indigo,IN571,CCU,MAA,122,Technical,Clear
+2024-01-06,Vistara,VI702,DEL,BLR,114,Weather,Thunderstorm
+2024-05-26,Indigo,IN927,PNQ,DEL,67,Technical,Clear
+2024-05-07,GoAir,GO930,LKO,BOM,108,Technical,Clear
+2024-02-21,Vistara,VI750,BOM,PNQ,69,ATC,Clear
+2024-03-08,Indigo,IN404,CCU,PNQ,38,Weather,Clear
+2024-01-25,GoAir,GO444,MAA,DEL,150,Technical,Clear
+2024-04-19,SpiceJet,SP455,BOM,CCU,144,ATC,Clear
+2024-04-20,GoAir,GO420,BLR,MAA,174,Weather,Clear
+2024-04-26,GoAir,GO284,DEL,CCU,62,Crew,Clear
+2024-02-24,Vistara,VI374,CCU,MAA,30,Crew,Clear
+2024-04-03,Vistara,VI251,BLR,BOM,91,Crew,Clear
+2024-04-15,Air India,AI980,BOM,CCU,120,Weather,Thunderstorm
+2024-03-14,SpiceJet,SP362,BLR,MAA,53,Weather,Heavy Rain
+2024-01-08,SpiceJet,SP916,MAA,BLR,126,Weather,Snow
+2024-06-14,Indigo,IN306,HYD,BLR,81,Weather,Thunderstorm
+2024-06-17,GoAir,GO280,DEL,CCU,20,Weather,Fog
+2024-01-22,Air India,AI716,MAA,PNQ,119,Weather,Thunderstorm
+2024-06-20,Indigo,IN506,HYD,BOM,143,Weather,Fog
+2024-05-13,GoAir,GO893,MAA,BLR,75,ATC,Clear
+2024-03-21,Air India,AI952,CCU,PNQ,75,Crew,Clear
+2024-02-25,SpiceJet,SP209,HYD,BOM,127,Security,Clear
+2024-03-06,GoAir,GO157,PNQ,MAA,43,Weather,Thunderstorm
+2024-05-19,Vistara,VI586,BLR,HYD,52,ATC,Clear
+2024-05-01,Air India,AI941,MAA,DEL,170,Technical,Clear
+2024-06-18,Indigo,IN807,BLR,HYD,94,Technical,Clear
+2024-06-24,Indigo,IN647,BLR,PNQ,17,Weather,Snow
+2024-03-06,Air India,AI192,BLR,HYD,56,Weather,Snow
+2024-06-10,Air India,AI931,CCU,PNQ,35,Weather,Snow
+2024-04-30,Vistara,VI961,LKO,CCU,40,Weather,Heavy Rain
+2024-06-27,Air India,AI618,BOM,BLR,155,Weather,Thunderstorm
+2024-04-26,Indigo,IN880,DEL,CCU,176,Technical,Clear
+2024-06-13,SpiceJet,SP103,CCU,BOM,95,Technical,Clear
+2024-01-29,SpiceJet,SP355,HYD,PNQ,120,Technical,Clear
+2024-04-25,Vistara,VI994,HYD,BLR,166,Weather,Thunderstorm
+2024-03-13,SpiceJet,SP186,CCU,HYD,111,Weather,Clear
+2024-02-27,Indigo,IN123,BLR,DEL,65,Security,Clear
+2024-06-28,SpiceJet,SP150,CCU,MAA,81,Weather,Heavy Rain
+2024-01-23,Air India,AI274,BOM,DEL,126,Crew,Clear
+2024-06-21,Vistara,VI221,BLR,CCU,83,Weather,Thunderstorm
+2024-05-06,Vistara,VI233,CCU,PNQ,70,Weather,Thunderstorm
+2024-06-22,SpiceJet,SP528,HYD,MAA,22,Crew,Clear
+2024-03-08,SpiceJet,SP732,PNQ,BOM,180,Weather,Snow
+2024-01-22,Indigo,IN580,HYD,PNQ,116,Weather,Heavy Rain
+2024-04-08,Vistara,VI853,MAA,DEL,30,Weather,Fog
+2024-03-26,SpiceJet,SP582,LKO,MAA,168,Security,Clear
+2024-01-02,Air India,AI616,CCU,HYD,109,Security,Clear
+2024-05-23,Indigo,IN694,HYD,BLR,141,Weather,Thunderstorm
+2024-04-29,SpiceJet,SP191,LKO,CCU,51,Technical,Clear
+2024-01-30,Air India,AI145,HYD,MAA,86,ATC,Clear
+2024-04-20,Air India,AI997,MAA,LKO,82,ATC,Clear
+2024-04-21,SpiceJet,SP423,PNQ,CCU,157,Security,Clear
+2024-01-14,SpiceJet,SP252,DEL,HYD,135,Weather,Thunderstorm
+2024-02-11,Vistara,VI546,BOM,MAA,106,Weather,Clear
+2024-05-04,Vistara,VI604,BOM,PNQ,52,Crew,Clear
+2024-03-30,Indigo,IN308,MAA,BOM,145,ATC,Clear
+2024-05-24,GoAir,GO317,DEL,LKO,61,Crew,Clear
+2024-01-20,SpiceJet,SP886,PNQ,LKO,99,Weather,Fog
+2024-03-13,Indigo,IN503,LKO,MAA,42,Security,Clear
+2024-02-09,Indigo,IN183,PNQ,CCU,137,Crew,Clear
+2024-06-09,Air India,AI708,DEL,BLR,174,Security,Clear
+2024-03-24,GoAir,GO232,BLR,PNQ,179,Weather,Thunderstorm
+2024-03-23,Indigo,IN861,BOM,LKO,112,Security,Clear
+2024-04-12,Air India,AI282,BLR,PNQ,37,ATC,Clear
+2024-02-23,SpiceJet,SP497,CCU,HYD,54,Technical,Clear
+2024-03-17,Vistara,VI920,CCU,LKO,94,ATC,Clear
+2024-04-01,Indigo,IN952,LKO,MAA,129,Weather,Snow
+2024-05-01,Air India,AI676,CCU,DEL,109,Crew,Clear
+2024-04-21,Vistara,VI195,DEL,LKO,133,Weather,Heavy Rain
+2024-06-14,SpiceJet,SP607,BOM,BLR,35,Weather,Snow
+2024-03-17,SpiceJet,SP230,MAA,PNQ,124,Weather,Thunderstorm
+2024-05-25,Indigo,IN664,BOM,DEL,145,Technical,Clear
+2024-04-15,Indigo,IN575,MAA,HYD,35,Weather,Clear
+2024-01-05,Indigo,IN858,PNQ,BOM,115,Crew,Clear
+2024-01-22,Vistara,VI997,MAA,HYD,131,Technical,Clear
+2024-06-08,Air India,AI449,HYD,BOM,169,Weather,Thunderstorm
+2024-06-21,Indigo,IN544,DEL,BOM,18,Weather,Heavy Rain
+2024-06-16,Vistara,VI571,CCU,PNQ,169,Technical,Clear
+2024-03-18,GoAir,GO932,LKO,CCU,116,Technical,Clear
+2024-01-23,SpiceJet,SP238,DEL,HYD,19,Weather,Heavy Rain
+2024-01-07,SpiceJet,SP592,HYD,CCU,175,Weather,Clear
+2024-02-18,Indigo,IN408,PNQ,BOM,20,Weather,Fog
+2024-02-12,SpiceJet,SP856,PNQ,BLR,130,Weather,Clear
+2024-03-03,SpiceJet,SP401,CCU,DEL,41,Weather,Snow
+2024-04-16,Vistara,VI854,MAA,DEL,139,Weather,Clear
+2024-05-31,GoAir,GO794,PNQ,BOM,150,Crew,Clear
+2024-04-18,GoAir,GO423,BOM,BLR,121,ATC,Clear
+2024-01-30,Vistara,VI737,LKO,BLR,20,Technical,Clear
+2024-03-14,SpiceJet,SP580,LKO,BLR,71,Weather,Clear
+2024-06-24,Air India,AI716,PNQ,BOM,114,ATC,Clear
+2024-06-21,Air India,AI915,PNQ,CCU,56,Security,Clear
+2024-03-13,Indigo,IN783,PNQ,BOM,55,Weather,Clear
+2024-05-05,Indigo,IN912,CCU,BLR,68,Weather,Clear
+2024-01-13,Indigo,IN467,MAA,HYD,59,Technical,Clear
+2024-01-17,Air India,AI540,BOM,LKO,158,Weather,Heavy Rain
+2024-05-04,Air India,AI448,LKO,PNQ,157,Weather,Thunderstorm
+2024-02-08,GoAir,GO718,BOM,CCU,127,Weather,Snow
+2024-01-29,Indigo,IN900,BOM,PNQ,144,Technical,Clear
+2024-02-12,Indigo,IN991,BLR,HYD,89,Weather,Snow
+2024-05-09,Vistara,VI850,BOM,HYD,100,Technical,Clear
+2024-02-01,SpiceJet,SP549,CCU,PNQ,77,Crew,Clear
+2024-03-28,Air India,AI617,HYD,DEL,121,Weather,Thunderstorm
+2024-06-10,SpiceJet,SP255,CCU,PNQ,124,Weather,Snow
+2024-04-14,Vistara,VI972,LKO,DEL,17,Weather,Clear
+2024-01-18,Indigo,IN446,LKO,BLR,57,Security,Clear
+2024-01-16,Vistara,VI877,DEL,CCU,53,Security,Clear
+2024-06-10,GoAir,GO402,CCU,BLR,156,ATC,Clear
+2024-03-21,Air India,AI108,MAA,LKO,52,Technical,Clear
+2024-04-24,SpiceJet,SP657,PNQ,LKO,118,Weather,Heavy Rain
+2024-03-18,Indigo,IN137,LKO,BLR,47,Crew,Clear
+2024-02-24,Indigo,IN623,MAA,LKO,177,Weather,Heavy Rain
+2024-01-06,Indigo,IN915,MAA,BOM,92,ATC,Clear
+2024-05-09,Indigo,IN849,DEL,PNQ,175,Weather,Clear
+2024-03-31,Indigo,IN148,BOM,MAA,16,Weather,Snow
+2024-03-27,SpiceJet,SP924,BLR,HYD,161,Weather,Heavy Rain
+2024-04-06,GoAir,GO855,BLR,DEL,164,Weather,Heavy Rain
+2024-04-02,Vistara,VI200,HYD,CCU,120,Weather,Fog
+2024-01-24,Indigo,IN535,HYD,MAA,34,Weather,Thunderstorm
+2024-06-22,GoAir,GO512,CCU,PNQ,142,Weather,Snow
+2024-04-22,Vistara,VI849,CCU,PNQ,144,Weather,Heavy Rain
+2024-05-04,Vistara,VI232,BOM,CCU,136,Weather,Fog
+2024-02-10,GoAir,GO478,BOM,LKO,43,ATC,Clear
+2024-04-04,GoAir,GO396,DEL,LKO,110,Weather,Thunderstorm
+2024-04-05,Air India,AI401,PNQ,DEL,51,Crew,Clear
+2024-01-13,Air India,AI390,BLR,BOM,140,ATC,Clear
+2024-02-01,GoAir,GO457,BOM,PNQ,138,Weather,Clear
+2024-03-20,GoAir,GO563,LKO,PNQ,170,Weather,Heavy Rain
+2024-02-05,GoAir,GO751,PNQ,CCU,129,Weather,Heavy Rain
+2024-03-24,Indigo,IN919,CCU,BLR,116,Weather,Thunderstorm
+2024-05-18,Indigo,IN786,PNQ,LKO,37,Weather,Heavy Rain
+2024-01-07,GoAir,GO745,MAA,LKO,179,Technical,Clear
+2024-02-19,GoAir,GO654,DEL,LKO,136,Technical,Clear
+2024-01-31,GoAir,GO284,DEL,BLR,77,Crew,Clear
+2024-01-22,GoAir,GO721,LKO,BLR,140,Technical,Clear
+2024-03-28,Vistara,VI284,CCU,DEL,96,ATC,Clear
+2024-03-06,Indigo,IN217,BOM,LKO,51,Weather,Heavy Rain
+2024-03-06,Indigo,IN257,MAA,BLR,30,Technical,Clear
+2024-02-16,Indigo,IN830,DEL,BLR,96,Weather,Heavy Rain
+2024-04-15,Air India,AI364,CCU,PNQ,28,ATC,Clear
+2024-03-02,GoAir,GO700,BLR,MAA,144,Technical,Clear
+2024-01-30,Air India,AI162,LKO,BLR,31,Technical,Clear
+2024-01-08,Vistara,VI748,BLR,DEL,165,Weather,Fog
+2024-03-04,GoAir,GO767,HYD,BLR,129,Technical,Clear
+2024-06-11,GoAir,GO308,HYD,BLR,58,Technical,Clear
+2024-05-17,Vistara,VI668,PNQ,DEL,133,Weather,Clear
+2024-03-15,SpiceJet,SP100,DEL,MAA,79,Weather,Snow
+2024-03-30,SpiceJet,SP699,MAA,DEL,151,Weather,Clear
+2024-01-18,Air India,AI191,CCU,LKO,50,Weather,Clear
+2024-03-12,Vistara,VI315,LKO,CCU,177,Security,Clear
+2024-04-25,Air India,AI351,LKO,HYD,168,Weather,Thunderstorm
+2024-01-05,SpiceJet,SP761,DEL,LKO,17,Weather,Heavy Rain
+2024-04-15,GoAir,GO813,PNQ,CCU,35,Weather,Fog
+2024-05-17,Indigo,IN952,PNQ,LKO,111,Weather,Clear
+2024-04-01,Vistara,VI281,DEL,BOM,64,Weather,Snow
+2024-01-03,SpiceJet,SP860,DEL,PNQ,106,Weather,Heavy Rain
+2024-01-24,GoAir,GO740,MAA,PNQ,74,Crew,Clear
+2024-04-02,Indigo,IN387,PNQ,LKO,68,Crew,Clear
+2024-02-20,Vistara,VI213,MAA,LKO,58,Technical,Clear
+2024-06-17,GoAir,GO788,HYD,DEL,31,Technical,Clear
+2024-03-07,GoAir,GO976,BLR,LKO,85,Crew,Clear
+2024-06-22,Indigo,IN809,MAA,CCU,131,Technical,Clear
+2024-04-19,Indigo,IN974,LKO,BLR,119,ATC,Clear
+2024-02-01,GoAir,GO577,PNQ,HYD,26,Technical,Clear
+2024-01-13,Air India,AI530,PNQ,HYD,64,Weather,Thunderstorm
+2024-01-21,GoAir,GO927,DEL,CCU,123,Weather,Fog
+2024-03-04,SpiceJet,SP268,LKO,HYD,175,Weather,Fog
+2024-01-08,Vistara,VI542,DEL,LKO,100,Crew,Clear
+2024-03-04,Indigo,IN584,BLR,HYD,100,ATC,Clear
+2024-01-19,GoAir,GO734,PNQ,CCU,129,Weather,Clear
+2024-02-01,Indigo,IN162,DEL,MAA,31,Weather,Heavy Rain
+2024-01-16,Vistara,VI156,MAA,LKO,31,Technical,Clear
+2024-06-22,Indigo,IN672,DEL,BLR,117,ATC,Clear
+2024-06-07,Vistara,VI338,DEL,MAA,124,Weather,Clear
+2024-06-07,Indigo,IN447,DEL,MAA,165,Technical,Clear
+2024-01-28,Indigo,IN112,BOM,LKO,64,Crew,Clear
+2024-06-12,GoAir,GO362,LKO,BLR,173,Weather,Snow
+2024-02-17,SpiceJet,SP240,DEL,BOM,164,Weather,Snow
+2024-05-11,Air India,AI418,HYD,BOM,169,Weather,Thunderstorm
+2024-03-15,Air India,AI108,HYD,DEL,158,Weather,Fog
+2024-04-18,Air India,AI300,BLR,CCU,32,Security,Clear
+2024-02-18,Vistara,VI811,PNQ,MAA,163,Technical,Clear
+2024-06-06,Air India,AI528,LKO,BOM,25,Weather,Snow
+2024-02-26,Indigo,IN754,BLR,CCU,174,Weather,Heavy Rain
+2024-03-02,Vistara,VI852,LKO,PNQ,67,Crew,Clear
+2024-02-17,Indigo,IN471,DEL,BOM,157,Weather,Fog
+2024-02-06,Air India,AI550,BLR,CCU,107,Technical,Clear
+2024-01-08,SpiceJet,SP302,MAA,BOM,82,Weather,Heavy Rain
+2024-03-27,GoAir,GO351,HYD,BOM,82,Weather,Fog
+2024-01-06,SpiceJet,SP488,BOM,BLR,93,Security,Clear
+2024-03-02,Air India,AI928,LKO,CCU,149,Weather,Clear
+2024-04-21,Indigo,IN221,HYD,BOM,64,Crew,Clear
+2024-06-26,Air India,AI425,CCU,LKO,26,Weather,Clear
+2024-05-30,SpiceJet,SP974,MAA,PNQ,78,Weather,Fog
+2024-06-10,Air India,AI993,HYD,PNQ,164,Technical,Clear
+2024-02-23,Indigo,IN903,PNQ,CCU,31,Technical,Clear
+2024-05-10,Vistara,VI869,LKO,BLR,60,Technical,Clear
+2024-04-05,GoAir,GO811,PNQ,LKO,136,Security,Clear
+2024-05-28,Vistara,VI753,DEL,HYD,66,Weather,Snow
+2024-03-01,Vistara,VI323,MAA,BLR,161,ATC,Clear
+2024-04-05,Air India,AI663,BOM,HYD,90,Crew,Clear
+2024-05-12,Air India,AI335,DEL,MAA,101,Technical,Clear
+2024-04-25,Vistara,VI542,CCU,HYD,96,ATC,Clear
+2024-04-07,Indigo,IN283,PNQ,BOM,34,Weather,Thunderstorm
+2024-01-22,Air India,AI962,BOM,PNQ,73,Weather,Fog
+2024-01-31,Indigo,IN468,DEL,LKO,65,Weather,Thunderstorm
+2024-03-05,Air India,AI863,MAA,BOM,50,Crew,Clear
+2024-01-03,Air India,AI388,LKO,PNQ,118,Security,Clear
+2024-04-30,GoAir,GO879,HYD,PNQ,73,Weather,Heavy Rain
+2024-05-01,SpiceJet,SP628,PNQ,LKO,102,ATC,Clear
+2024-03-21,SpiceJet,SP539,CCU,BOM,157,Weather,Fog
+2024-04-05,SpiceJet,SP691,HYD,BLR,17,Security,Clear
+2024-06-17,Air India,AI447,BLR,MAA,118,Weather,Clear
+2024-03-17,Air India,AI701,DEL,LKO,50,Crew,Clear
+2024-03-25,GoAir,GO744,CCU,BLR,115,Weather,Fog
+2024-05-16,Vistara,VI292,PNQ,DEL,130,Weather,Thunderstorm
+2024-01-24,SpiceJet,SP206,HYD,DEL,169,ATC,Clear
+2024-01-07,SpiceJet,SP303,BOM,MAA,74,Weather,Thunderstorm
+2024-06-17,GoAir,GO171,PNQ,DEL,17,Weather,Heavy Rain
+2024-03-24,Vistara,VI500,HYD,DEL,122,Weather,Snow
+2024-01-18,Vistara,VI986,BLR,BOM,94,ATC,Clear
+2024-06-19,Vistara,VI262,MAA,LKO,132,Weather,Thunderstorm
+2024-02-21,Indigo,IN246,PNQ,DEL,169,ATC,Clear
+2024-05-14,Air India,AI682,PNQ,BLR,25,Weather,Fog
+2024-03-14,Vistara,VI455,MAA,BLR,59,Technical,Clear
+2024-03-04,SpiceJet,SP732,CCU,BLR,61,Weather,Clear
+2024-01-25,Vistara,VI815,DEL,HYD,55,ATC,Clear
+2024-06-09,GoAir,GO398,BOM,CCU,70,Crew,Clear
+2024-04-15,GoAir,GO224,LKO,DEL,144,Crew,Clear
+2024-04-14,Vistara,VI268,MAA,BOM,133,Technical,Clear
+2024-01-19,Vistara,VI490,LKO,CCU,64,Weather,Snow
+2024-01-10,Indigo,IN356,BOM,CCU,98,Security,Clear
+2024-05-04,Vistara,VI169,BOM,LKO,127,Technical,Clear
+2024-04-30,Air India,AI961,HYD,BOM,170,ATC,Clear
+2024-02-15,Air India,AI227,CCU,BOM,17,Weather,Thunderstorm
+2024-02-09,Vistara,VI466,HYD,BOM,151,Crew,Clear
+2024-04-23,Indigo,IN956,BOM,MAA,128,Technical,Clear
+2024-06-02,Indigo,IN149,CCU,PNQ,78,Weather,Thunderstorm
+2024-03-02,SpiceJet,SP193,DEL,MAA,18,Weather,Thunderstorm
+2024-02-19,Indigo,IN325,BOM,PNQ,57,ATC,Clear
+2024-01-12,Vistara,VI624,BOM,PNQ,158,Weather,Heavy Rain
+2024-06-08,SpiceJet,SP654,CCU,BLR,69,Weather,Fog
+2024-04-01,Air India,AI277,DEL,MAA,18,Technical,Clear
+2024-02-24,Vistara,VI325,BOM,CCU,174,ATC,Clear
+2024-01-12,Indigo,IN323,CCU,HYD,142,Crew,Clear
+2024-05-17,GoAir,GO275,MAA,DEL,176,Technical,Clear
+2024-06-22,SpiceJet,SP440,HYD,CCU,96,Crew,Clear
+2024-01-18,Air India,AI118,PNQ,BLR,74,Technical,Clear
+2024-02-29,Indigo,IN731,BOM,BLR,124,Weather,Heavy Rain
+2024-06-07,Indigo,IN161,HYD,BLR,66,Weather,Heavy Rain
+2024-04-06,SpiceJet,SP757,DEL,HYD,168,Security,Clear
+2024-03-25,SpiceJet,SP384,LKO,CCU,25,Crew,Clear
+2024-06-14,Air India,AI868,DEL,HYD,99,ATC,Clear
+2024-03-03,SpiceJet,SP652,DEL,CCU,71,Security,Clear
+2024-05-13,Air India,AI287,PNQ,LKO,140,Weather,Fog
+2024-02-19,Indigo,IN749,HYD,BOM,59,Weather,Clear
+2024-05-20,SpiceJet,SP341,BOM,MAA,94,Crew,Clear
+2024-02-20,SpiceJet,SP534,HYD,LKO,88,Weather,Clear
+2024-04-24,SpiceJet,SP378,PNQ,DEL,107,Security,Clear
+2024-04-06,SpiceJet,SP582,PNQ,BLR,125,Technical,Clear
+2024-05-03,Indigo,IN880,CCU,BLR,91,ATC,Clear
+2024-05-21,SpiceJet,SP363,CCU,BLR,87,Weather,Snow
+2024-05-23,GoAir,GO592,BOM,BLR,135,Weather,Heavy Rain
+2024-02-09,SpiceJet,SP104,DEL,PNQ,110,Technical,Clear
+2024-04-13,Vistara,VI504,LKO,BLR,179,Weather,Clear
+2024-01-19,Vistara,VI139,BOM,MAA,56,Security,Clear
+2024-04-21,Air India,AI889,LKO,MAA,177,Crew,Clear
+2024-06-27,Indigo,IN766,CCU,BLR,77,Crew,Clear
+2024-01-09,Air India,AI746,DEL,CCU,52,Technical,Clear
+2024-06-03,Vistara,VI797,HYD,BLR,163,Weather,Heavy Rain
+2024-01-04,Indigo,IN889,BOM,CCU,113,Crew,Clear
+2024-06-29,GoAir,GO182,BLR,MAA,124,Weather,Thunderstorm
+2024-06-26,Air India,AI612,CCU,MAA,120,Weather,Fog
+2024-01-28,GoAir,GO895,LKO,PNQ,68,Weather,Snow
+2024-06-27,Air India,AI106,HYD,PNQ,39,Weather,Fog
+2024-06-27,Vistara,VI637,CCU,LKO,125,Weather,Heavy Rain
+2024-02-15,Air India,AI290,HYD,BOM,143,Weather,Fog
+2024-04-25,GoAir,GO933,BLR,BOM,61,Weather,Heavy Rain
+2024-03-07,Vistara,VI551,BOM,PNQ,35,Technical,Clear
+2024-01-22,Vistara,VI227,MAA,DEL,164,Weather,Heavy Rain
+2024-05-02,Vistara,VI788,BOM,DEL,16,Weather,Clear
+2024-01-11,Indigo,IN316,DEL,MAA,83,Technical,Clear
+2024-05-01,Air India,AI718,CCU,HYD,102,Weather,Thunderstorm
+2024-03-02,Air India,AI781,CCU,BLR,106,Technical,Clear
+2024-01-26,Indigo,IN567,CCU,LKO,50,ATC,Clear
+2024-06-03,Indigo,IN989,MAA,CCU,78,Crew,Clear
+2024-04-25,GoAir,GO802,PNQ,MAA,63,Weather,Fog
+2024-06-12,Air India,AI117,LKO,PNQ,98,Weather,Snow
+2024-02-29,GoAir,GO596,CCU,LKO,35,Technical,Clear
+2024-04-19,Vistara,VI774,BOM,CCU,170,Weather,Heavy Rain
+2024-02-06,GoAir,GO997,DEL,HYD,37,Weather,Thunderstorm
+2024-06-21,GoAir,GO995,PNQ,BOM,44,ATC,Clear
+2024-06-18,GoAir,GO346,BLR,BOM,37,Weather,Fog
+2024-04-21,Indigo,IN264,LKO,BLR,71,Crew,Clear
+2024-06-19,Vistara,VI786,BOM,CCU,151,Weather,Snow
+2024-01-24,Air India,AI992,BLR,LKO,168,Crew,Clear
+2024-06-13,Air India,AI486,CCU,LKO,158,Technical,Clear
+2024-02-29,SpiceJet,SP365,BOM,BLR,37,Weather,Thunderstorm
+2024-05-31,SpiceJet,SP862,BOM,LKO,95,Weather,Snow
+2024-05-27,Indigo,IN418,DEL,LKO,114,Technical,Clear
+2024-03-22,Air India,AI916,HYD,LKO,166,Technical,Clear
+2024-01-28,Vistara,VI109,PNQ,HYD,90,Weather,Heavy Rain
+2024-05-07,Vistara,VI250,MAA,BOM,23,Crew,Clear
+2024-03-20,GoAir,GO805,BOM,BLR,161,Security,Clear
+2024-06-10,SpiceJet,SP606,MAA,CCU,30,Security,Clear
+2024-02-09,SpiceJet,SP968,BLR,CCU,60,Crew,Clear
+2024-04-10,Air India,AI934,HYD,DEL,101,Technical,Clear
+2024-06-22,Vistara,VI456,CCU,BLR,87,Weather,Thunderstorm
+2024-06-27,SpiceJet,SP817,CCU,DEL,163,Weather,Fog
+2024-03-18,Vistara,VI770,HYD,LKO,138,Weather,Thunderstorm
+2024-02-07,SpiceJet,SP323,BLR,CCU,107,Technical,Clear
+2024-06-22,SpiceJet,SP485,CCU,LKO,29,ATC,Clear
+2024-04-01,Vistara,VI283,DEL,BOM,101,Security,Clear
+2024-02-08,Vistara,VI350,DEL,BOM,140,Weather,Thunderstorm
+2024-06-25,GoAir,GO276,CCU,PNQ,37,Technical,Clear
+2024-06-15,Vistara,VI381,PNQ,HYD,44,Weather,Fog
+2024-02-01,Vistara,VI756,BLR,DEL,161,Technical,Clear
+2024-03-11,Indigo,IN913,HYD,MAA,180,Weather,Snow
+2024-03-17,GoAir,GO228,BOM,BLR,152,Weather,Heavy Rain
+2024-04-13,Indigo,IN503,PNQ,DEL,164,Technical,Clear
+2024-02-23,Indigo,IN285,HYD,DEL,95,Technical,Clear
+2024-01-11,SpiceJet,SP688,BLR,CCU,158,Weather,Thunderstorm
+2024-01-09,Indigo,IN227,MAA,HYD,58,Security,Clear
+2024-06-17,Indigo,IN354,MAA,DEL,147,Security,Clear
+2024-06-17,GoAir,GO555,HYD,LKO,95,Weather,Clear
+2024-03-31,GoAir,GO651,BLR,CCU,26,Weather,Heavy Rain
+2024-01-10,SpiceJet,SP245,MAA,PNQ,49,ATC,Clear
+2024-05-31,Air India,AI384,HYD,CCU,34,Technical,Clear
+2024-03-07,Vistara,VI765,HYD,MAA,80,Weather,Snow
+2024-06-26,SpiceJet,SP648,BLR,DEL,83,Technical,Clear
+2024-04-05,GoAir,GO773,HYD,MAA,95,ATC,Clear
+2024-04-07,Indigo,IN718,BLR,DEL,151,Weather,Fog
+2024-06-24,GoAir,GO516,BOM,BLR,107,Technical,Clear
+2024-03-10,SpiceJet,SP989,BLR,HYD,111,Weather,Heavy Rain
+2024-04-06,Indigo,IN901,BOM,HYD,93,Technical,Clear
+2024-01-25,GoAir,GO457,MAA,LKO,40,Weather,Fog
+2024-02-13,Air India,AI869,CCU,BOM,151,Weather,Clear
+2024-06-01,Vistara,VI588,HYD,BLR,146,Weather,Heavy Rain
+2024-06-17,SpiceJet,SP246,CCU,MAA,28,Crew,Clear
+2024-03-04,GoAir,GO528,PNQ,BOM,105,Weather,Snow
+2024-05-08,Air India,AI382,CCU,MAA,73,Security,Clear
+2024-06-11,Indigo,IN412,CCU,PNQ,38,Weather,Fog
+2024-01-20,SpiceJet,SP195,HYD,LKO,88,Weather,Clear
+2024-05-06,Indigo,IN534,HYD,MAA,151,Weather,Fog
+2024-04-13,Indigo,IN731,BLR,PNQ,123,Crew,Clear
+2024-03-03,GoAir,GO800,DEL,LKO,58,Weather,Clear
+2024-02-27,SpiceJet,SP176,LKO,PNQ,105,Weather,Fog
+2024-04-18,Vistara,VI488,HYD,BLR,101,Security,Clear
+2024-05-18,Indigo,IN397,MAA,BLR,69,Weather,Fog
+2024-06-10,GoAir,GO503,BLR,HYD,179,Security,Clear
+2024-04-28,GoAir,GO968,PNQ,DEL,172,Weather,Snow
+2024-03-25,Air India,AI462,BOM,DEL,62,Weather,Snow
+2024-03-31,Indigo,IN203,CCU,BLR,150,Weather,Clear
+2024-02-09,Vistara,VI226,PNQ,DEL,79,Weather,Heavy Rain
+2024-04-30,Vistara,VI483,MAA,HYD,61,Weather,Clear
+2024-03-09,Indigo,IN549,PNQ,BOM,126,Weather,Fog
+2024-04-01,SpiceJet,SP213,BLR,HYD,116,Weather,Snow
+2024-03-25,Indigo,IN264,BLR,MAA,83,Security,Clear
+2024-04-17,Vistara,VI663,PNQ,CCU,47,Technical,Clear
+2024-04-12,GoAir,GO843,CCU,BOM,42,Weather,Fog
+2024-02-02,SpiceJet,SP452,DEL,PNQ,28,Technical,Clear
+2024-04-19,GoAir,GO855,DEL,MAA,87,Weather,Snow
+2024-01-22,Vistara,VI353,HYD,CCU,78,Technical,Clear
+2024-01-30,Air India,AI817,BLR,CCU,65,ATC,Clear
+2024-06-29,Indigo,IN817,HYD,BOM,166,Security,Clear
+2024-02-28,Indigo,IN235,CCU,DEL,64,Weather,Heavy Rain
+2024-04-19,Indigo,IN731,BLR,DEL,112,ATC,Clear
+2024-05-14,Air India,AI816,BLR,BOM,137,Weather,Fog
+2024-05-10,Vistara,VI759,DEL,BLR,108,Weather,Thunderstorm
+2024-03-30,Vistara,VI352,LKO,DEL,15,Weather,Fog
+2024-06-18,Air India,AI317,MAA,BLR,170,Weather,Fog
+2024-04-20,SpiceJet,SP358,PNQ,HYD,43,Weather,Fog
+2024-06-20,Indigo,IN799,HYD,BLR,107,Weather,Clear
+2024-05-15,GoAir,GO480,BLR,CCU,164,Weather,Snow
+2024-01-23,Indigo,IN233,BOM,DEL,63,Technical,Clear
+2024-06-29,Vistara,VI201,BOM,LKO,92,Technical,Clear
+2024-02-21,GoAir,GO838,HYD,DEL,122,Weather,Clear
+2024-03-05,GoAir,GO455,LKO,BLR,45,Technical,Clear
+2024-01-18,Vistara,VI529,DEL,HYD,48,Technical,Clear
+2024-01-12,GoAir,GO162,BLR,CCU,141,ATC,Clear
+2024-02-12,Vistara,VI868,CCU,MAA,117,Crew,Clear
+2024-02-22,SpiceJet,SP103,HYD,LKO,17,Weather,Clear
+2024-04-26,GoAir,GO824,MAA,HYD,90,ATC,Clear
+2024-05-21,Indigo,IN275,BLR,DEL,89,Technical,Clear
+2024-06-12,SpiceJet,SP384,HYD,BLR,28,ATC,Clear
+2024-02-23,GoAir,GO218,DEL,CCU,169,Weather,Thunderstorm
+2024-03-24,Indigo,IN822,MAA,CCU,171,Weather,Thunderstorm
+2024-03-24,Indigo,IN740,DEL,PNQ,86,Weather,Heavy Rain
+2024-03-06,Indigo,IN650,BOM,CCU,112,Crew,Clear
+2024-06-09,GoAir,GO664,BLR,PNQ,98,Weather,Thunderstorm
+2024-02-22,GoAir,GO744,CCU,BOM,126,Weather,Thunderstorm
+2024-02-07,Vistara,VI195,PNQ,BOM,60,Weather,Heavy Rain
+2024-05-25,Vistara,VI846,HYD,CCU,94,Weather,Heavy Rain
+2024-02-15,Vistara,VI803,BLR,DEL,124,Weather,Heavy Rain
+2024-04-26,Vistara,VI202,HYD,CCU,18,Crew,Clear
+2024-04-06,Vistara,VI121,BOM,PNQ,179,Weather,Fog
+2024-02-03,SpiceJet,SP888,BOM,BLR,175,Weather,Clear
+2024-01-04,Indigo,IN910,BOM,LKO,101,Crew,Clear
+2024-02-21,SpiceJet,SP591,PNQ,CCU,99,Weather,Snow
+2024-02-09,SpiceJet,SP157,MAA,CCU,20,Technical,Clear
+2024-01-27,GoAir,GO403,BOM,LKO,121,ATC,Clear
+2024-01-01,SpiceJet,SP124,BLR,MAA,105,Weather,Thunderstorm
+2024-02-27,Vistara,VI803,BOM,MAA,43,Weather,Heavy Rain
+2024-01-27,Air India,AI465,BOM,LKO,107,Weather,Fog
+2024-01-12,GoAir,GO254,HYD,MAA,168,Technical,Clear
+2024-06-22,Vistara,VI253,MAA,LKO,104,ATC,Clear
+2024-03-10,Vistara,VI777,LKO,HYD,34,ATC,Clear
+2024-02-08,SpiceJet,SP427,HYD,MAA,137,Weather,Fog
+2024-01-29,GoAir,GO537,MAA,BOM,47,Weather,Heavy Rain
+2024-04-08,Air India,AI426,PNQ,BLR,120,Weather,Clear
+2024-06-11,Air India,AI241,BLR,MAA,142,Weather,Clear
+2024-05-16,Vistara,VI645,BLR,MAA,122,Weather,Clear
+2024-05-27,SpiceJet,SP819,BOM,HYD,67,Weather,Fog
+2024-04-02,GoAir,GO585,HYD,DEL,104,Weather,Thunderstorm
+2024-02-05,Air India,AI571,HYD,PNQ,122,ATC,Clear
+2024-02-23,SpiceJet,SP157,HYD,DEL,51,Security,Clear
+2024-01-07,Vistara,VI480,DEL,CCU,163,Weather,Fog
+2024-05-02,GoAir,GO991,HYD,DEL,51,Weather,Fog
+2024-03-03,Indigo,IN112,CCU,BOM,135,Crew,Clear
+2024-05-15,Air India,AI581,CCU,LKO,180,Weather,Fog
+2024-03-14,Indigo,IN259,DEL,CCU,59,Weather,Clear
+2024-02-11,Indigo,IN505,CCU,LKO,131,Security,Clear
+2024-05-26,GoAir,GO413,BLR,MAA,84,Security,Clear
+2024-05-13,Vistara,VI228,BLR,MAA,71,Technical,Clear
+2024-02-17,GoAir,GO719,BOM,PNQ,137,Technical,Clear
+2024-06-16,Vistara,VI947,CCU,BOM,110,Weather,Snow
+2024-02-19,Air India,AI211,BOM,DEL,100,Weather,Fog
+2024-03-02,Air India,AI266,BOM,DEL,17,Weather,Thunderstorm
+2024-02-18,GoAir,GO306,DEL,HYD,160,Weather,Clear
+2024-01-12,GoAir,GO909,PNQ,DEL,38,Weather,Thunderstorm
+2024-01-03,Air India,AI869,MAA,BLR,95,Technical,Clear
+2024-04-01,SpiceJet,SP819,BOM,BLR,143,Weather,Fog
+2024-05-08,SpiceJet,SP124,CCU,BLR,24,Technical,Clear
+2024-02-11,SpiceJet,SP798,PNQ,DEL,38,ATC,Clear
+2024-02-25,SpiceJet,SP887,HYD,LKO,170,Technical,Clear
+2024-04-24,SpiceJet,SP447,MAA,HYD,125,Technical,Clear
+2024-06-23,Vistara,VI344,BLR,LKO,54,Technical,Clear
+2024-01-25,Indigo,IN246,MAA,LKO,37,ATC,Clear
+2024-01-25,Vistara,VI421,HYD,BLR,86,Weather,Clear
+2024-04-03,Air India,AI191,BOM,HYD,132,Crew,Clear
+2024-05-01,Air India,AI881,PNQ,LKO,46,Security,Clear
+2024-01-11,Air India,AI979,MAA,BLR,173,Weather,Heavy Rain
+2024-04-22,Air India,AI624,LKO,HYD,120,Weather,Clear
+2024-04-25,Air India,AI998,DEL,LKO,29,Security,Clear
+2024-06-28,GoAir,GO108,HYD,PNQ,111,Weather,Heavy Rain
+2024-05-25,Vistara,VI974,BOM,HYD,133,Weather,Fog
+2024-03-30,Vistara,VI579,PNQ,DEL,42,Weather,Snow
+2024-04-20,SpiceJet,SP511,LKO,DEL,169,Weather,Snow
+2024-02-24,Vistara,VI217,MAA,BLR,54,Weather,Snow
+2024-02-07,SpiceJet,SP427,DEL,LKO,30,Crew,Clear
+2024-04-20,Vistara,VI318,DEL,HYD,123,ATC,Clear
+2024-03-05,SpiceJet,SP185,HYD,DEL,35,Weather,Thunderstorm
+2024-04-25,Vistara,VI637,BLR,CCU,62,ATC,Clear
+2024-01-24,Vistara,VI450,MAA,BOM,122,Weather,Snow
+2024-05-01,GoAir,GO805,HYD,CCU,161,Weather,Snow
+2024-01-03,GoAir,GO901,BLR,DEL,163,Crew,Clear
+2024-03-23,Air India,AI114,HYD,MAA,142,Security,Clear
+2024-01-30,Vistara,VI369,DEL,MAA,47,Security,Clear
+2024-06-12,GoAir,GO199,DEL,HYD,63,Crew,Clear
+2024-06-27,GoAir,GO892,HYD,LKO,104,Weather,Heavy Rain
+2024-02-18,GoAir,GO114,LKO,PNQ,92,Weather,Thunderstorm
+2024-05-08,Indigo,IN816,PNQ,LKO,120,Security,Clear
+2024-03-31,Air India,AI948,CCU,MAA,100,Security,Clear
+2024-02-15,Vistara,VI538,LKO,BOM,56,Technical,Clear
+2024-04-07,Air India,AI965,CCU,LKO,173,Weather,Fog
+2024-01-23,Indigo,IN191,DEL,LKO,41,Security,Clear
+2024-06-08,GoAir,GO202,PNQ,MAA,23,Technical,Clear
+2024-04-17,SpiceJet,SP328,PNQ,MAA,65,Weather,Snow
+2024-02-01,Air India,AI912,PNQ,BLR,180,Security,Clear
+2024-01-02,Air India,AI900,BLR,LKO,82,Weather,Thunderstorm
+2024-04-16,SpiceJet,SP104,CCU,DEL,54,Weather,Thunderstorm
+2024-05-12,GoAir,GO425,LKO,BOM,125,Security,Clear
+2024-05-22,Vistara,VI297,CCU,PNQ,162,Weather,Snow
+2024-02-02,Vistara,VI845,HYD,MAA,147,Security,Clear
+2024-04-21,SpiceJet,SP201,HYD,LKO,162,Weather,Snow
+2024-06-09,Air India,AI957,HYD,BLR,38,Weather,Fog
+2024-04-21,Indigo,IN743,HYD,DEL,154,Technical,Clear
+2024-05-26,Vistara,VI125,HYD,MAA,106,Technical,Clear
+2024-03-02,SpiceJet,SP404,BLR,LKO,111,ATC,Clear
+2024-06-17,Indigo,IN381,BOM,HYD,178,Technical,Clear
+2024-01-29,Vistara,VI710,BOM,DEL,82,Weather,Heavy Rain
+2024-01-24,Indigo,IN606,LKO,PNQ,40,Weather,Snow
+2024-01-06,Vistara,VI175,PNQ,LKO,122,Weather,Snow
+2024-03-21,Vistara,VI927,HYD,BOM,60,Weather,Clear
+2024-06-10,GoAir,GO975,DEL,BOM,103,Security,Clear
+2024-06-06,GoAir,GO659,DEL,HYD,80,Technical,Clear
+2024-02-19,GoAir,GO130,DEL,LKO,54,Technical,Clear
+2024-04-03,Indigo,IN322,DEL,BLR,36,Weather,Heavy Rain
+2024-03-09,Air India,AI593,BLR,DEL,156,Weather,Thunderstorm
+2024-04-29,Vistara,VI546,CCU,BOM,65,Weather,Thunderstorm
+2024-04-10,Indigo,IN697,MAA,BOM,139,Crew,Clear
+2024-04-24,Vistara,VI710,MAA,PNQ,42,Weather,Clear
+2024-04-08,Vistara,VI304,LKO,HYD,31,ATC,Clear
+2024-02-12,Indigo,IN623,MAA,LKO,169,Weather,Clear
+2024-03-31,Vistara,VI130,BOM,HYD,124,ATC,Clear
+2024-04-01,SpiceJet,SP174,BLR,CCU,52,Weather,Thunderstorm
+2024-02-01,Indigo,IN426,DEL,CCU,134,Weather,Clear
+2024-03-23,SpiceJet,SP675,BOM,MAA,69,Weather,Clear
+2024-02-25,Indigo,IN674,MAA,CCU,34,Technical,Clear
+2024-06-23,Vistara,VI425,LKO,BOM,141,Weather,Snow
+2024-01-12,Air India,AI531,BOM,DEL,168,Weather,Thunderstorm
+2024-05-31,Vistara,VI342,DEL,BLR,162,Weather,Fog
+2024-04-28,Air India,AI234,CCU,DEL,150,ATC,Clear
+2024-03-27,Indigo,IN171,PNQ,DEL,121,ATC,Clear
+2024-03-11,Air India,AI871,LKO,BLR,95,Weather,Snow
+2024-06-05,Indigo,IN502,MAA,CCU,141,Security,Clear
+2024-04-05,GoAir,GO205,DEL,HYD,17,Weather,Heavy Rain
+2024-01-27,Air India,AI982,CCU,BOM,63,Weather,Thunderstorm
+2024-05-17,Indigo,IN804,DEL,BLR,26,ATC,Clear
+2024-01-13,Air India,AI176,MAA,HYD,112,Technical,Clear
+2024-06-27,SpiceJet,SP241,PNQ,DEL,52,Weather,Clear
+2024-04-15,Vistara,VI784,BOM,LKO,162,Technical,Clear
+2024-06-18,Vistara,VI387,LKO,PNQ,72,Crew,Clear
+2024-03-08,Air India,AI828,BOM,BLR,77,Technical,Clear
+2024-06-26,Indigo,IN176,PNQ,DEL,70,Weather,Snow
+2024-04-08,SpiceJet,SP599,BOM,BLR,166,Weather,Clear
+2024-05-11,Air India,AI878,MAA,CCU,54,Weather,Clear
+2024-01-28,SpiceJet,SP324,LKO,BLR,173,Security,Clear
+2024-04-12,SpiceJet,SP170,MAA,BLR,93,Weather,Clear
+2024-06-14,Indigo,IN250,PNQ,DEL,76,Crew,Clear
+2024-04-27,SpiceJet,SP373,DEL,MAA,130,Technical,Clear
+2024-03-08,Indigo,IN663,BOM,BLR,53,Weather,Snow
+2024-05-08,Vistara,VI620,LKO,DEL,109,Weather,Fog
+2024-01-13,Vistara,VI849,CCU,BOM,118,Weather,Heavy Rain
+2024-06-01,Air India,AI642,PNQ,MAA,27,Weather,Heavy Rain
+2024-01-29,SpiceJet,SP217,DEL,BOM,76,Technical,Clear
+2024-05-16,Indigo,IN382,BLR,LKO,118,Technical,Clear
+2024-04-10,Indigo,IN325,MAA,BLR,67,Weather,Thunderstorm
+2024-06-12,Air India,AI822,MAA,CCU,62,Weather,Clear
+2024-06-28,GoAir,GO588,MAA,PNQ,76,Security,Clear
+2024-03-21,Indigo,IN270,HYD,BLR,51,ATC,Clear
+2024-06-19,Vistara,VI538,LKO,DEL,82,Weather,Fog
+2024-02-13,Indigo,IN708,LKO,BLR,140,Technical,Clear
+2024-04-30,Indigo,IN146,DEL,LKO,89,Technical,Clear
+2024-05-14,GoAir,GO271,HYD,PNQ,92,Weather,Thunderstorm
+2024-04-25,Vistara,VI852,LKO,MAA,139,Weather,Thunderstorm
+2024-04-03,Vistara,VI113,LKO,HYD,147,Crew,Clear
+2024-01-29,Air India,AI802,DEL,HYD,71,Security,Clear
+2024-04-01,Vistara,VI131,BLR,LKO,125,Crew,Clear
+2024-02-22,Indigo,IN298,CCU,LKO,85,Weather,Clear
+2024-04-25,GoAir,GO279,MAA,CCU,99,Weather,Snow
+2024-05-30,Vistara,VI382,MAA,BOM,148,Weather,Thunderstorm
+2024-06-05,Indigo,IN543,PNQ,MAA,103,Security,Clear
+2024-01-29,Indigo,IN610,HYD,MAA,148,Technical,Clear
+2024-06-08,GoAir,GO780,HYD,BLR,31,Weather,Thunderstorm
+2024-01-04,Vistara,VI141,BLR,HYD,46,ATC,Clear
+2024-05-05,Air India,AI105,CCU,HYD,15,Technical,Clear
+2024-03-05,SpiceJet,SP458,MAA,PNQ,158,ATC,Clear
+2024-01-23,Air India,AI246,BLR,MAA,35,Technical,Clear
+2024-02-26,Indigo,IN584,LKO,BOM,178,ATC,Clear
+2024-04-18,Vistara,VI200,MAA,HYD,59,Technical,Clear
+2024-06-22,Air India,AI923,HYD,CCU,79,Crew,Clear
+2024-04-16,GoAir,GO304,MAA,HYD,160,Weather,Snow
+2024-05-19,SpiceJet,SP484,CCU,DEL,128,Weather,Thunderstorm
+2024-05-08,Air India,AI579,LKO,BLR,120,Weather,Snow
+2024-01-08,GoAir,GO127,CCU,DEL,172,Crew,Clear
+2024-03-03,GoAir,GO624,LKO,BOM,159,Technical,Clear
+2024-01-14,Vistara,VI228,CCU,LKO,147,Weather,Snow
+2024-01-14,Indigo,IN156,MAA,PNQ,42,Security,Clear
+2024-06-01,Indigo,IN941,MAA,LKO,99,Weather,Fog
+2024-02-01,GoAir,GO790,DEL,CCU,51,Weather,Clear
+2024-05-06,SpiceJet,SP328,HYD,BLR,16,Technical,Clear
+2024-06-08,SpiceJet,SP217,BOM,DEL,45,Weather,Clear
+2024-01-25,SpiceJet,SP309,BOM,MAA,144,Weather,Snow
+2024-04-10,Indigo,IN224,MAA,BLR,62,Weather,Heavy Rain
+2024-05-19,Air India,AI941,PNQ,CCU,46,Technical,Clear
+2024-02-07,Indigo,IN289,HYD,PNQ,76,Crew,Clear
+2024-05-10,GoAir,GO305,PNQ,BLR,40,Weather,Clear
+2024-05-06,Air India,AI783,MAA,BLR,42,Weather,Snow
+2024-04-16,Vistara,VI251,DEL,BLR,159,Weather,Snow
+2024-01-03,GoAir,GO410,DEL,CCU,173,Technical,Clear
+2024-01-11,Air India,AI242,PNQ,LKO,17,Weather,Heavy Rain
+2024-04-01,GoAir,GO976,BLR,HYD,149,Security,Clear
+2024-05-11,Indigo,IN278,HYD,BLR,159,Technical,Clear
+2024-04-27,SpiceJet,SP385,MAA,BLR,180,Weather,Snow
+2024-04-06,Vistara,VI720,HYD,LKO,144,Crew,Clear
+2024-02-03,Air India,AI702,LKO,MAA,118,Technical,Clear
+2024-01-12,Indigo,IN972,HYD,BOM,42,Weather,Snow
+2024-06-22,Vistara,VI431,BLR,PNQ,75,ATC,Clear
+2024-02-14,Vistara,VI873,CCU,DEL,79,Weather,Fog
+2024-01-10,Indigo,IN552,LKO,MAA,22,Technical,Clear
+2024-03-23,Indigo,IN815,PNQ,BLR,178,Weather,Clear
+2024-05-22,SpiceJet,SP300,MAA,BLR,88,Weather,Heavy Rain
+2024-02-21,SpiceJet,SP544,BLR,DEL,176,Technical,Clear
+2024-02-22,Indigo,IN929,HYD,DEL,119,Weather,Clear
+2024-05-19,Indigo,IN448,HYD,CCU,179,Crew,Clear
+2024-02-18,SpiceJet,SP684,PNQ,MAA,173,Weather,Clear
+2024-02-05,Indigo,IN549,CCU,LKO,33,Weather,Clear
+2024-01-21,SpiceJet,SP901,MAA,DEL,74,Weather,Fog
+2024-06-02,GoAir,GO438,DEL,HYD,89,ATC,Clear
+2024-04-09,Air India,AI169,HYD,BLR,162,Weather,Heavy Rain
+2024-05-12,GoAir,GO612,MAA,BLR,154,Technical,Clear
+2024-05-29,Vistara,VI369,DEL,BOM,81,Weather,Heavy Rain
+2024-03-26,Indigo,IN242,BLR,LKO,99,ATC,Clear
+2024-03-01,Vistara,VI174,DEL,BLR,121,Security,Clear
+2024-05-21,Vistara,VI232,MAA,CCU,24,Weather,Snow
+2024-05-09,SpiceJet,SP765,LKO,BLR,73,Weather,Fog
+2024-01-15,Indigo,IN892,BLR,LKO,112,Technical,Clear
+2024-05-21,Vistara,VI153,CCU,PNQ,47,Weather,Snow
+2024-06-28,Vistara,VI662,HYD,DEL,172,Weather,Thunderstorm
+2024-03-31,SpiceJet,SP451,CCU,DEL,38,Weather,Clear
+2024-01-03,SpiceJet,SP522,DEL,PNQ,78,Weather,Fog
+2024-01-20,Indigo,IN229,PNQ,BOM,95,Weather,Thunderstorm
+2024-06-03,SpiceJet,SP399,HYD,LKO,46,Weather,Fog
+2024-01-20,Air India,AI656,BLR,MAA,106,Crew,Clear
+2024-04-23,Air India,AI475,MAA,PNQ,149,Technical,Clear
+2024-03-22,GoAir,GO615,BOM,DEL,120,Weather,Clear
+2024-05-04,Air India,AI180,BLR,BOM,148,ATC,Clear
+2024-03-19,GoAir,GO315,BOM,BLR,51,Crew,Clear
+2024-03-01,Vistara,VI765,PNQ,DEL,23,Weather,Thunderstorm
+2024-03-12,GoAir,GO493,MAA,PNQ,30,Security,Clear
+2024-06-05,Vistara,VI607,DEL,PNQ,128,Weather,Fog
+2024-02-27,SpiceJet,SP488,HYD,CCU,28,Weather,Thunderstorm
+2024-01-09,GoAir,GO881,LKO,DEL,101,Security,Clear
+2024-05-31,SpiceJet,SP875,DEL,BLR,174,Crew,Clear
+2024-04-19,Indigo,IN926,BOM,LKO,88,Weather,Clear
+2024-04-28,Vistara,VI686,MAA,BOM,134,Security,Clear
+2024-02-03,Indigo,IN387,MAA,DEL,153,Security,Clear
+2024-03-27,GoAir,GO504,DEL,LKO,83,Weather,Thunderstorm
+2024-06-16,GoAir,GO112,BOM,BLR,97,Technical,Clear
+2024-02-15,Vistara,VI573,DEL,MAA,24,Weather,Thunderstorm
+2024-05-02,GoAir,GO323,CCU,DEL,35,Technical,Clear
+2024-06-05,GoAir,GO421,BOM,MAA,85,Weather,Thunderstorm
+2024-05-06,SpiceJet,SP332,HYD,BOM,27,ATC,Clear
+2024-01-30,Indigo,IN288,PNQ,MAA,156,Weather,Heavy Rain
+2024-01-16,Air India,AI363,DEL,CCU,105,ATC,Clear
+2024-06-02,SpiceJet,SP458,BOM,DEL,43,Technical,Clear
+2024-03-01,SpiceJet,SP433,LKO,PNQ,121,ATC,Clear
+2024-06-13,Vistara,VI996,MAA,BOM,170,Weather,Thunderstorm
+2024-03-26,Vistara,VI767,LKO,BLR,90,Security,Clear
+2024-02-11,Air India,AI145,MAA,BOM,21,Security,Clear
+2024-06-04,SpiceJet,SP927,LKO,MAA,145,Crew,Clear
+2024-02-25,Vistara,VI950,DEL,CCU,112,Crew,Clear
+2024-01-20,SpiceJet,SP678,CCU,MAA,150,Crew,Clear
+2024-06-04,Vistara,VI775,PNQ,HYD,162,Weather,Thunderstorm
+2024-03-03,Air India,AI348,LKO,BOM,44,Weather,Heavy Rain
+2024-04-23,Vistara,VI470,BOM,BLR,34,Technical,Clear
+2024-06-16,Vistara,VI719,BLR,MAA,73,Crew,Clear
+2024-05-17,SpiceJet,SP895,CCU,LKO,50,Technical,Clear
+2024-03-14,Air India,AI421,BOM,DEL,144,Weather,Heavy Rain
+2024-05-27,Vistara,VI747,BLR,BOM,18,ATC,Clear
+2024-01-31,Vistara,VI369,PNQ,LKO,23,Weather,Snow
+2024-01-07,SpiceJet,SP174,HYD,LKO,114,ATC,Clear
+2024-03-31,SpiceJet,SP511,BLR,CCU,101,Weather,Thunderstorm
+2024-05-31,GoAir,GO731,BOM,CCU,105,Weather,Snow
+2024-04-14,Vistara,VI858,CCU,HYD,49,Crew,Clear
+2024-05-30,GoAir,GO185,HYD,DEL,109,Technical,Clear
+2024-04-07,Air India,AI549,HYD,LKO,86,Crew,Clear
+2024-02-29,Air India,AI605,LKO,DEL,149,Technical,Clear
+2024-03-14,Air India,AI493,LKO,PNQ,51,Weather,Fog
+2024-02-23,Vistara,VI631,MAA,LKO,95,ATC,Clear
+2024-03-29,Air India,AI269,BOM,BLR,127,Weather,Heavy Rain
+2024-02-13,Air India,AI365,BOM,HYD,51,Technical,Clear
+2024-02-22,GoAir,GO958,HYD,DEL,25,Technical,Clear
+2024-01-02,Vistara,VI952,DEL,BLR,161,Weather,Snow
+2024-04-23,GoAir,GO229,PNQ,HYD,45,Security,Clear
+2024-04-20,Vistara,VI369,BOM,PNQ,86,Weather,Fog
+2024-03-31,Indigo,IN862,BLR,CCU,55,Weather,Clear
+2024-03-26,Air India,AI564,BOM,CCU,24,Technical,Clear
+2024-01-26,GoAir,GO425,BLR,PNQ,175,Technical,Clear
+2024-06-11,Indigo,IN351,HYD,LKO,71,Weather,Heavy Rain
+2024-03-08,Vistara,VI255,PNQ,CCU,142,Weather,Thunderstorm
+2024-02-03,SpiceJet,SP750,BOM,LKO,69,ATC,Clear
+2024-04-21,Indigo,IN602,BLR,CCU,122,Weather,Thunderstorm
+2024-06-06,Vistara,VI746,BLR,CCU,150,Weather,Heavy Rain
+2024-03-17,SpiceJet,SP996,MAA,CCU,176,Weather,Snow
+2024-06-02,Air India,AI656,PNQ,HYD,43,Weather,Thunderstorm
+2024-04-17,Vistara,VI433,BLR,CCU,60,Weather,Snow
+2024-03-22,Indigo,IN455,CCU,LKO,138,Weather,Snow
+2024-06-02,Vistara,VI803,BLR,DEL,144,Weather,Heavy Rain
+2024-04-14,Indigo,IN675,LKO,HYD,120,Technical,Clear
+2024-04-23,Vistara,VI508,MAA,DEL,71,Weather,Thunderstorm
+2024-06-11,Indigo,IN415,PNQ,BLR,57,Weather,Clear
+2024-02-22,Indigo,IN728,LKO,BOM,20,Technical,Clear
+2024-04-07,Indigo,IN899,LKO,HYD,156,Crew,Clear
+2024-06-16,Indigo,IN631,BLR,HYD,55,Technical,Clear
+2024-02-28,Air India,AI920,HYD,BLR,70,Weather,Clear
+2024-03-04,Indigo,IN136,DEL,PNQ,41,Security,Clear
+2024-05-04,Indigo,IN260,MAA,HYD,176,Weather,Heavy Rain
+2024-01-09,Air India,AI867,BOM,PNQ,117,Crew,Clear
+2024-03-10,Indigo,IN178,BOM,LKO,121,Crew,Clear
+2024-01-04,GoAir,GO719,HYD,DEL,115,Crew,Clear
+2024-06-04,Air India,AI903,LKO,BLR,20,Technical,Clear
+2024-03-11,Vistara,VI307,BOM,BLR,162,Security,Clear
+2024-04-06,Air India,AI539,BOM,HYD,158,Security,Clear
+2024-05-03,Air India,AI819,BLR,MAA,142,Weather,Snow
+2024-04-05,GoAir,GO831,BOM,MAA,21,Weather,Snow
+2024-02-29,Vistara,VI478,PNQ,MAA,94,Weather,Thunderstorm
+2024-02-06,Indigo,IN197,HYD,BOM,140,ATC,Clear
+2024-01-22,SpiceJet,SP512,PNQ,MAA,160,Crew,Clear
+2024-01-16,Vistara,VI358,CCU,HYD,53,Crew,Clear
+2024-03-23,GoAir,GO713,CCU,PNQ,68,Weather,Clear
+2024-05-05,GoAir,GO611,LKO,CCU,133,Weather,Snow
+2024-05-11,GoAir,GO979,BOM,DEL,34,Weather,Snow
+2024-02-02,Indigo,IN265,BOM,HYD,44,Weather,Fog
+2024-04-18,Vistara,VI274,PNQ,BOM,155,Crew,Clear
+2024-04-12,Indigo,IN403,BOM,MAA,84,Security,Clear
+2024-06-06,Air India,AI677,HYD,BOM,67,Weather,Clear
+2024-04-05,GoAir,GO719,MAA,BLR,99,Weather,Heavy Rain
+2024-02-12,GoAir,GO832,PNQ,DEL,60,Weather,Heavy Rain
+2024-04-30,Indigo,IN105,MAA,CCU,39,Weather,Clear
+2024-04-27,Air India,AI196,DEL,LKO,55,Weather,Fog
+2024-03-30,GoAir,GO331,LKO,CCU,64,Weather,Thunderstorm
+2024-03-13,Vistara,VI698,MAA,HYD,118,Technical,Clear
+2024-05-23,GoAir,GO756,BLR,DEL,41,Technical,Clear
+2024-03-12,SpiceJet,SP369,BOM,HYD,165,Crew,Clear
+2024-03-25,GoAir,GO890,MAA,PNQ,172,Crew,Clear
+2024-02-23,SpiceJet,SP102,BLR,BOM,172,Weather,Heavy Rain
+2024-02-06,SpiceJet,SP586,DEL,BLR,28,Weather,Heavy Rain
+2024-05-10,Vistara,VI535,PNQ,HYD,45,Weather,Heavy Rain
+2024-05-23,Vistara,VI486,CCU,LKO,94,Weather,Clear
+2024-03-22,GoAir,GO180,BLR,BOM,86,Security,Clear
+2024-04-21,GoAir,GO552,PNQ,LKO,45,Crew,Clear
+2024-06-15,Air India,AI282,DEL,PNQ,134,Weather,Thunderstorm
+2024-04-18,SpiceJet,SP731,BLR,MAA,17,Weather,Heavy Rain
+2024-04-23,Air India,AI638,BLR,DEL,99,Technical,Clear
+2024-04-04,Air India,AI614,DEL,LKO,180,Weather,Thunderstorm
+2024-06-13,Vistara,VI507,DEL,CCU,85,Crew,Clear
+2024-05-26,Indigo,IN983,PNQ,MAA,140,Technical,Clear
+2024-05-01,GoAir,GO926,BOM,DEL,171,Weather,Heavy Rain
+2024-06-29,SpiceJet,SP991,HYD,DEL,45,Weather,Fog
+2024-04-23,Indigo,IN421,BOM,PNQ,64,Technical,Clear
+2024-03-26,Air India,AI826,HYD,LKO,108,Crew,Clear
+2024-06-19,Vistara,VI526,DEL,BOM,143,Weather,Heavy Rain
+2024-03-09,Indigo,IN276,PNQ,DEL,65,Weather,Clear
+2024-04-14,SpiceJet,SP750,DEL,BLR,104,Weather,Fog
+2024-03-28,Vistara,VI681,BOM,LKO,37,Security,Clear
+2024-01-24,SpiceJet,SP847,BOM,HYD,175,Weather,Fog
+2024-02-13,Indigo,IN322,LKO,BLR,78,Weather,Thunderstorm
+2024-06-23,SpiceJet,SP865,HYD,BLR,88,Weather,Heavy Rain
+2024-03-12,SpiceJet,SP678,LKO,BLR,63,Weather,Thunderstorm
+2024-02-21,SpiceJet,SP402,MAA,CCU,38,Weather,Snow
+2024-03-31,GoAir,GO472,LKO,PNQ,130,Technical,Clear
+2024-01-10,GoAir,GO494,HYD,LKO,126,Technical,Clear
+2024-06-14,Air India,AI312,LKO,CCU,156,Security,Clear
+2024-01-24,GoAir,GO891,BLR,HYD,81,Weather,Fog
+2024-01-30,GoAir,GO774,HYD,MAA,165,Weather,Thunderstorm
+2024-04-05,GoAir,GO486,DEL,BLR,176,Crew,Clear
+2024-01-03,SpiceJet,SP531,PNQ,HYD,40,Weather,Heavy Rain
+2024-04-01,Air India,AI266,PNQ,MAA,20,Weather,Snow
+2024-06-06,Vistara,VI707,CCU,LKO,77,Weather,Thunderstorm
+2024-04-05,GoAir,GO445,PNQ,LKO,25,Weather,Heavy Rain
+2024-05-09,Indigo,IN531,CCU,PNQ,162,Weather,Snow
+2024-05-31,Indigo,IN267,HYD,BLR,149,ATC,Clear
+2024-05-25,SpiceJet,SP233,LKO,PNQ,38,Security,Clear
+2024-02-06,Air India,AI569,CCU,BOM,52,Weather,Heavy Rain
+2024-02-14,Air India,AI414,BOM,HYD,67,Weather,Snow
+2024-01-24,SpiceJet,SP257,LKO,DEL,103,Weather,Fog
+2024-04-30,GoAir,GO803,CCU,LKO,135,Weather,Snow
+2024-04-28,SpiceJet,SP881,BOM,MAA,49,Weather,Snow
+2024-03-24,Air India,AI939,CCU,MAA,33,Weather,Thunderstorm
+2024-05-05,GoAir,GO127,BLR,LKO,75,Weather,Thunderstorm
+2024-04-02,Air India,AI613,DEL,LKO,116,Technical,Clear
+2024-06-14,SpiceJet,SP241,PNQ,BOM,92,Weather,Snow
+2024-01-24,Air India,AI493,HYD,MAA,94,Weather,Snow
+2024-06-21,Vistara,VI135,MAA,BLR,116,Weather,Clear
+2024-01-28,Vistara,VI925,BOM,BLR,40,Technical,Clear
+2024-01-04,SpiceJet,SP426,HYD,LKO,131,Technical,Clear
+2024-05-04,Vistara,VI532,DEL,BLR,177,Weather,Fog
+2024-06-03,Vistara,VI614,LKO,PNQ,100,Weather,Clear
+2024-04-03,Indigo,IN904,HYD,MAA,113,Technical,Clear
+2024-02-08,Indigo,IN445,MAA,BOM,172,Technical,Clear
+2024-04-21,Indigo,IN575,MAA,DEL,140,Weather,Snow
+2024-04-03,Indigo,IN713,LKO,HYD,90,Weather,Fog
+2024-05-18,Air India,AI283,MAA,HYD,129,Weather,Thunderstorm
+2024-03-17,Indigo,IN710,BOM,BLR,151,Crew,Clear
+2024-03-04,SpiceJet,SP186,BOM,HYD,177,Crew,Clear
+2024-04-20,Air India,AI453,PNQ,LKO,149,Technical,Clear
+2024-01-11,Indigo,IN434,LKO,DEL,178,Weather,Fog
+2024-04-07,GoAir,GO842,BOM,BLR,92,Security,Clear
+2024-04-12,Indigo,IN288,MAA,CCU,35,Technical,Clear
+2024-01-30,SpiceJet,SP684,MAA,HYD,153,Technical,Clear
+2024-06-26,Indigo,IN483,PNQ,BOM,126,Crew,Clear
+2024-06-25,SpiceJet,SP383,DEL,LKO,61,Weather,Thunderstorm
+2024-03-10,Indigo,IN516,BLR,DEL,48,Crew,Clear
+2024-03-09,Vistara,VI713,LKO,DEL,19,Weather,Thunderstorm
+2024-02-26,Indigo,IN726,MAA,CCU,132,Crew,Clear
+2024-06-11,GoAir,GO436,CCU,BLR,18,Security,Clear
+2024-03-28,Air India,AI454,PNQ,BOM,142,Weather,Heavy Rain
+2024-05-16,SpiceJet,SP789,CCU,HYD,161,Weather,Fog
+2024-06-10,Vistara,VI674,LKO,DEL,150,Weather,Thunderstorm
+2024-03-18,Air India,AI868,LKO,BLR,22,Technical,Clear
+2024-06-08,GoAir,GO270,LKO,MAA,20,Weather,Thunderstorm
+2024-05-22,Vistara,VI340,CCU,MAA,170,Weather,Fog
+2024-01-25,Vistara,VI323,BLR,DEL,60,Technical,Clear
+2024-04-12,GoAir,GO518,LKO,PNQ,168,Weather,Thunderstorm
+2024-03-22,Air India,AI745,BOM,CCU,177,ATC,Clear
+2024-05-08,GoAir,GO645,CCU,BOM,141,ATC,Clear
+2024-03-14,Vistara,VI260,HYD,MAA,151,Weather,Thunderstorm
+2024-04-28,SpiceJet,SP799,BOM,MAA,122,Technical,Clear
+2024-04-15,SpiceJet,SP751,DEL,LKO,171,Weather,Clear
+2024-05-08,Indigo,IN713,CCU,DEL,78,Weather,Heavy Rain
+2024-05-25,Vistara,VI800,BOM,BLR,168,Weather,Snow
+2024-05-21,GoAir,GO984,BLR,PNQ,132,Security,Clear
+2024-03-02,SpiceJet,SP583,BLR,HYD,31,Weather,Fog
+2024-02-22,GoAir,GO572,PNQ,BOM,128,Technical,Clear
+2024-02-15,Vistara,VI612,BOM,PNQ,99,Technical,Clear
+2024-03-03,Vistara,VI839,BOM,DEL,119,Crew,Clear
+2024-04-08,Indigo,IN901,CCU,HYD,152,ATC,Clear
+2024-06-04,GoAir,GO831,DEL,MAA,30,Weather,Thunderstorm
+2024-04-11,Indigo,IN472,CCU,LKO,176,Security,Clear
+2024-04-19,Indigo,IN206,HYD,PNQ,163,Weather,Fog
+2024-02-13,Air India,AI522,LKO,BOM,138,Security,Clear
+2024-03-08,Indigo,IN437,BOM,MAA,140,ATC,Clear
+2024-03-07,Air India,AI402,PNQ,HYD,81,Crew,Clear
+2024-06-01,Indigo,IN879,HYD,BOM,21,Technical,Clear
+2024-04-04,GoAir,GO471,MAA,HYD,55,Security,Clear
+2024-05-01,Vistara,VI789,MAA,BOM,47,Crew,Clear
+2024-06-04,Air India,AI979,CCU,HYD,22,Technical,Clear
+2024-05-29,Air India,AI251,DEL,BLR,145,Weather,Clear
+2024-04-13,Vistara,VI733,HYD,BLR,165,Technical,Clear
+2024-05-13,Air India,AI487,PNQ,LKO,149,Weather,Snow
+2024-02-14,Vistara,VI488,DEL,CCU,102,Security,Clear
+2024-03-20,SpiceJet,SP329,HYD,BLR,45,Technical,Clear
+2024-04-01,Vistara,VI570,DEL,PNQ,149,Crew,Clear
+2024-02-21,Air India,AI780,DEL,MAA,99,Technical,Clear
+2024-03-10,GoAir,GO647,BOM,PNQ,160,Weather,Clear
+2024-03-04,SpiceJet,SP362,HYD,CCU,77,Security,Clear
+2024-06-25,Vistara,VI281,DEL,LKO,86,Weather,Fog
+2024-02-18,Indigo,IN235,MAA,DEL,77,Weather,Clear
+2024-05-28,Vistara,VI575,BOM,LKO,28,ATC,Clear
+2024-06-11,Indigo,IN301,PNQ,DEL,136,Weather,Heavy Rain
+2024-01-26,GoAir,GO703,BLR,LKO,160,Weather,Fog
+2024-05-28,Vistara,VI981,BOM,CCU,179,ATC,Clear
+2024-05-30,GoAir,GO873,PNQ,DEL,119,Weather,Clear
+2024-03-10,Vistara,VI746,HYD,BLR,146,Technical,Clear
+2024-06-14,Air India,AI370,BLR,HYD,158,Weather,Clear
+2024-03-20,Vistara,VI214,HYD,MAA,145,Weather,Snow
+2024-05-06,SpiceJet,SP283,BOM,PNQ,92,Weather,Fog
+2024-04-23,Air India,AI753,HYD,BOM,74,Crew,Clear
+2024-03-19,GoAir,GO412,LKO,PNQ,41,Technical,Clear
+2024-06-05,SpiceJet,SP684,HYD,BLR,116,Weather,Heavy Rain
+2024-02-10,GoAir,GO778,HYD,BLR,136,Security,Clear
+2024-03-09,SpiceJet,SP369,PNQ,CCU,109,ATC,Clear
+2024-03-19,Air India,AI844,LKO,PNQ,130,Crew,Clear
+2024-04-18,GoAir,GO502,CCU,DEL,118,Crew,Clear
+2024-04-14,Air India,AI761,HYD,MAA,19,Crew,Clear
+2024-02-23,Air India,AI401,LKO,DEL,112,Weather,Thunderstorm
+2024-05-22,GoAir,GO856,BLR,PNQ,143,Weather,Snow
+2024-03-11,Indigo,IN176,BLR,BOM,137,Weather,Clear
+2024-04-30,Indigo,IN899,CCU,LKO,139,Security,Clear
+2024-03-12,GoAir,GO700,CCU,DEL,178,Weather,Thunderstorm
+2024-03-11,GoAir,GO478,PNQ,HYD,49,Weather,Fog
+2024-03-24,Vistara,VI944,HYD,PNQ,91,Weather,Clear
+2024-02-21,GoAir,GO190,PNQ,BOM,154,Weather,Thunderstorm
+2024-05-22,GoAir,GO936,MAA,CCU,32,Weather,Thunderstorm
+2024-04-02,Vistara,VI865,BLR,BOM,73,Weather,Snow
+2024-04-02,Air India,AI303,MAA,HYD,20,Technical,Clear
+2024-01-31,Vistara,VI537,CCU,PNQ,27,Weather,Clear
+2024-01-16,GoAir,GO482,DEL,LKO,23,Weather,Clear
+2024-03-24,GoAir,GO603,MAA,LKO,32,Weather,Fog
+2024-05-24,Indigo,IN671,BOM,LKO,146,Weather,Fog
+2024-05-26,Vistara,VI724,BLR,PNQ,125,Weather,Thunderstorm
+2024-04-29,Vistara,VI856,HYD,CCU,61,Weather,Clear
+2024-03-27,Vistara,VI640,CCU,DEL,90,Weather,Fog
+2024-06-08,Vistara,VI119,DEL,HYD,53,Weather,Thunderstorm
+2024-02-27,GoAir,GO790,LKO,MAA,66,Weather,Clear
+2024-03-31,GoAir,GO256,BLR,PNQ,93,Weather,Heavy Rain
+2024-01-26,Indigo,IN646,DEL,PNQ,104,Weather,Fog
+2024-03-24,Air India,AI335,BLR,BOM,123,Weather,Thunderstorm
+2024-02-29,SpiceJet,SP890,LKO,DEL,127,Weather,Fog
+2024-04-06,Indigo,IN554,BLR,MAA,127,Weather,Snow
+2024-02-20,SpiceJet,SP889,CCU,MAA,38,ATC,Clear
+2024-05-09,GoAir,GO841,BOM,HYD,45,Crew,Clear
+2024-06-03,Air India,AI867,LKO,BLR,38,Weather,Clear
+2024-04-02,Vistara,VI361,BOM,MAA,112,Weather,Snow
+2024-04-12,Indigo,IN463,LKO,HYD,126,ATC,Clear
+2024-02-28,Indigo,IN766,CCU,BLR,85,Weather,Thunderstorm
+2024-01-12,SpiceJet,SP967,BLR,BOM,47,Technical,Clear
+2024-02-05,Vistara,VI880,DEL,BOM,68,Technical,Clear
+2024-04-05,GoAir,GO524,HYD,MAA,147,Weather,Heavy Rain
+2024-06-20,SpiceJet,SP473,BOM,PNQ,142,Weather,Heavy Rain
+2024-03-19,Vistara,VI740,LKO,PNQ,97,Weather,Fog
+2024-01-07,Air India,AI129,PNQ,DEL,51,Crew,Clear
+2024-01-12,GoAir,GO486,HYD,BOM,104,Weather,Heavy Rain
+2024-01-24,Vistara,VI167,BOM,MAA,121,Weather,Clear
+2024-04-22,SpiceJet,SP977,DEL,BLR,80,Weather,Heavy Rain
+2024-03-23,GoAir,GO474,BOM,MAA,161,Weather,Heavy Rain
+2024-02-02,SpiceJet,SP627,HYD,PNQ,72,Security,Clear
+2024-01-25,Vistara,VI389,BOM,HYD,62,Weather,Thunderstorm
+2024-03-25,Vistara,VI784,MAA,PNQ,98,ATC,Clear
+2024-04-05,SpiceJet,SP693,DEL,CCU,113,Security,Clear
+2024-02-20,SpiceJet,SP114,HYD,CCU,75,Weather,Heavy Rain
+2024-04-11,Air India,AI111,PNQ,BLR,63,ATC,Clear
+2024-04-25,SpiceJet,SP564,MAA,LKO,86,Weather,Clear
+2024-03-27,Air India,AI290,MAA,HYD,139,ATC,Clear
+2024-06-18,Indigo,IN784,LKO,PNQ,31,Technical,Clear
+2024-04-19,Indigo,IN656,HYD,DEL,132,Weather,Fog
+2024-01-31,GoAir,GO829,MAA,BOM,93,ATC,Clear
+2024-04-21,GoAir,GO184,HYD,MAA,145,ATC,Clear
+2024-02-06,SpiceJet,SP894,DEL,HYD,105,Crew,Clear
+2024-05-24,GoAir,GO637,DEL,PNQ,153,Technical,Clear
+2024-06-26,GoAir,GO270,LKO,BOM,57,Weather,Clear
+2024-02-27,SpiceJet,SP653,CCU,PNQ,27,Weather,Snow
+2024-03-16,Vistara,VI634,CCU,BLR,49,Weather,Thunderstorm
+2024-01-01,Indigo,IN357,MAA,BOM,171,Security,Clear
+2024-01-16,Vistara,VI243,HYD,MAA,77,ATC,Clear
+2024-02-10,Vistara,VI500,BLR,BOM,33,ATC,Clear
+2024-03-11,SpiceJet,SP511,BOM,CCU,53,Crew,Clear
+2024-04-23,SpiceJet,SP788,MAA,PNQ,178,Weather,Fog
+2024-05-13,Air India,AI636,BOM,PNQ,135,Technical,Clear
+2024-06-18,Vistara,VI405,BOM,LKO,131,Crew,Clear
+2024-01-19,Air India,AI996,MAA,DEL,80,Weather,Fog
+2024-06-09,Vistara,VI536,HYD,CCU,139,Technical,Clear
+2024-02-27,GoAir,GO205,BOM,CCU,168,Technical,Clear
+2024-03-02,Vistara,VI956,CCU,BLR,41,Weather,Thunderstorm
+2024-03-11,Air India,AI755,LKO,BLR,79,Technical,Clear
+2024-01-22,Indigo,IN203,PNQ,BOM,71,Technical,Clear
+2024-06-19,Air India,AI206,PNQ,MAA,159,Technical,Clear
+2024-06-04,GoAir,GO991,CCU,DEL,166,Technical,Clear
+2024-05-27,Indigo,IN220,BLR,HYD,169,Technical,Clear
+2024-04-10,Indigo,IN455,PNQ,CCU,148,Weather,Fog
+2024-04-12,Vistara,VI785,DEL,HYD,21,Technical,Clear
+2024-01-26,Air India,AI522,DEL,CCU,79,Weather,Thunderstorm
+2024-06-23,Air India,AI460,BLR,HYD,27,Weather,Thunderstorm
+2024-04-27,Air India,AI887,HYD,BOM,155,Technical,Clear
+2024-04-12,Air India,AI899,HYD,PNQ,37,Weather,Thunderstorm
+2024-03-31,GoAir,GO651,BLR,HYD,40,ATC,Clear
+2024-06-12,Vistara,VI420,PNQ,LKO,112,Weather,Heavy Rain
+2024-03-08,Vistara,VI459,LKO,PNQ,107,Weather,Heavy Rain
+2024-02-13,Air India,AI116,BOM,HYD,144,Technical,Clear
+2024-05-23,GoAir,GO282,CCU,MAA,65,Technical,Clear
+2024-01-24,GoAir,GO997,CCU,PNQ,102,Weather,Clear
+2024-03-31,Vistara,VI236,CCU,DEL,90,ATC,Clear
+2024-03-23,SpiceJet,SP553,DEL,HYD,85,Technical,Clear
+2024-05-06,SpiceJet,SP953,BLR,BOM,127,ATC,Clear
+2024-02-07,Indigo,IN403,BLR,DEL,138,ATC,Clear
+2024-04-16,GoAir,GO664,BLR,MAA,147,Weather,Clear
+2024-04-12,GoAir,GO496,MAA,CCU,108,Crew,Clear
+2024-04-20,Air India,AI473,BLR,HYD,34,Technical,Clear
+2024-03-23,SpiceJet,SP914,HYD,DEL,144,Security,Clear
+2024-05-17,Air India,AI207,BLR,CCU,180,Weather,Clear
+2024-02-27,Vistara,VI375,DEL,MAA,142,Technical,Clear
+2024-01-17,SpiceJet,SP122,PNQ,MAA,103,Technical,Clear
+2024-06-29,SpiceJet,SP165,LKO,DEL,85,Security,Clear
+2024-01-08,GoAir,GO602,CCU,LKO,49,Crew,Clear
+2024-02-25,Vistara,VI417,MAA,HYD,145,Weather,Snow
+2024-02-06,GoAir,GO797,LKO,PNQ,171,Weather,Fog
+2024-04-01,GoAir,GO222,BOM,LKO,120,Weather,Heavy Rain
+2024-02-19,SpiceJet,SP715,HYD,PNQ,141,Weather,Fog
+2024-03-25,Indigo,IN196,CCU,MAA,114,Crew,Clear
+2024-04-07,Vistara,VI241,LKO,BOM,105,Weather,Heavy Rain
+2024-04-20,Air India,AI611,BOM,HYD,66,Weather,Heavy Rain
+2024-03-30,Indigo,IN447,PNQ,CCU,80,Weather,Fog
+2024-06-04,Indigo,IN670,DEL,CCU,58,Weather,Fog
+2024-05-15,Indigo,IN104,LKO,BLR,160,Weather,Clear
+2024-04-05,Indigo,IN276,BLR,CCU,61,Technical,Clear
+2024-03-29,Indigo,IN993,HYD,LKO,60,Weather,Snow
+2024-06-29,SpiceJet,SP619,HYD,PNQ,22,ATC,Clear
+2024-05-17,Indigo,IN926,MAA,HYD,61,Weather,Clear
+2024-05-12,SpiceJet,SP202,PNQ,BOM,171,Technical,Clear
+2024-04-26,GoAir,GO951,CCU,PNQ,44,Weather,Clear
+2024-01-17,Air India,AI352,LKO,BOM,140,Weather,Heavy Rain
+2024-04-13,Indigo,IN466,DEL,MAA,166,ATC,Clear
+2024-05-13,Indigo,IN779,LKO,MAA,151,Technical,Clear
+2024-05-19,SpiceJet,SP389,LKO,BOM,65,Weather,Thunderstorm
+2024-06-09,Vistara,VI513,CCU,BLR,21,Weather,Snow
+2024-01-27,Air India,AI674,PNQ,MAA,142,Weather,Thunderstorm
+2024-06-24,Indigo,IN640,DEL,HYD,93,Security,Clear
+2024-06-13,Air India,AI856,DEL,LKO,92,Weather,Snow
+2024-02-18,Air India,AI650,DEL,PNQ,126,ATC,Clear
+2024-05-10,Air India,AI797,DEL,HYD,62,Weather,Heavy Rain
+2024-03-22,Indigo,IN831,BLR,MAA,178,Weather,Clear
+2024-01-04,Indigo,IN490,BLR,CCU,89,Weather,Fog
+2024-03-02,Air India,AI281,CCU,PNQ,117,Weather,Fog
+2024-02-09,SpiceJet,SP713,BLR,LKO,123,Technical,Clear
+2024-02-22,Air India,AI519,DEL,MAA,111,ATC,Clear
+2024-02-18,Vistara,VI359,DEL,CCU,25,Technical,Clear
+2024-02-02,SpiceJet,SP172,BOM,DEL,140,Weather,Fog
+2024-02-16,GoAir,GO435,HYD,CCU,116,Weather,Thunderstorm
+2024-05-17,Air India,AI391,MAA,DEL,116,Crew,Clear
+2024-01-23,GoAir,GO966,PNQ,BOM,24,Weather,Snow
+2024-05-02,Indigo,IN214,BLR,DEL,62,ATC,Clear
+2024-06-26,Indigo,IN347,CCU,MAA,51,Weather,Snow
+2024-06-01,Indigo,IN778,BLR,PNQ,96,Weather,Fog
+2024-05-25,Indigo,IN256,LKO,PNQ,59,Security,Clear
+2024-04-28,SpiceJet,SP759,DEL,MAA,89,Weather,Clear
+2024-01-17,SpiceJet,SP288,BLR,HYD,127,Technical,Clear
+2024-04-22,Indigo,IN963,BLR,LKO,157,Technical,Clear
+2024-02-06,GoAir,GO425,DEL,BOM,119,Technical,Clear
+2024-06-07,SpiceJet,SP841,LKO,HYD,41,Weather,Heavy Rain
+2024-01-02,Vistara,VI103,DEL,PNQ,160,Weather,Fog
+2024-02-27,Indigo,IN677,BOM,DEL,136,Technical,Clear
+2024-03-13,GoAir,GO496,PNQ,LKO,140,Weather,Clear
+2024-03-05,Air India,AI751,PNQ,BLR,54,Security,Clear
+2024-05-17,Air India,AI329,HYD,BLR,59,Technical,Clear
+2024-03-06,SpiceJet,SP476,DEL,MAA,51,ATC,Clear
+2024-04-27,Vistara,VI827,BLR,MAA,175,Weather,Thunderstorm
+2024-02-23,Vistara,VI531,CCU,BLR,128,Crew,Clear
+2024-04-28,Air India,AI445,LKO,CCU,150,Weather,Heavy Rain
+2024-03-03,SpiceJet,SP829,BLR,LKO,173,Weather,Thunderstorm
+2024-04-28,GoAir,GO983,CCU,HYD,69,Technical,Clear
+2024-02-06,Vistara,VI211,PNQ,HYD,174,Security,Clear
+2024-01-14,SpiceJet,SP322,LKO,MAA,113,ATC,Clear
+2024-02-16,Vistara,VI124,BLR,MAA,59,Technical,Clear
+2024-06-23,GoAir,GO887,HYD,CCU,65,Weather,Heavy Rain
+2024-04-15,Air India,AI579,BLR,PNQ,139,Crew,Clear
+2024-06-05,GoAir,GO643,DEL,CCU,31,Weather,Fog
+2024-01-06,Indigo,IN982,DEL,BLR,95,ATC,Clear
+2024-02-21,SpiceJet,SP318,MAA,PNQ,174,Weather,Thunderstorm
+2024-05-29,Vistara,VI586,LKO,CCU,92,Weather,Fog
+2024-05-23,SpiceJet,SP255,HYD,MAA,173,Weather,Snow
+2024-02-10,GoAir,GO665,PNQ,LKO,78,Security,Clear
+2024-06-18,SpiceJet,SP555,BOM,PNQ,112,Weather,Snow
+2024-04-07,Vistara,VI274,DEL,LKO,107,Technical,Clear
+2024-05-29,GoAir,GO286,PNQ,DEL,160,Security,Clear
+2024-03-27,Indigo,IN478,BOM,HYD,91,Weather,Snow
+2024-02-08,Indigo,IN909,BLR,CCU,36,Weather,Thunderstorm
+2024-06-03,Vistara,VI116,CCU,BOM,79,Weather,Heavy Rain
+2024-05-11,Air India,AI632,DEL,MAA,57,Weather,Fog
+2024-06-15,SpiceJet,SP817,MAA,HYD,125,Weather,Thunderstorm
+2024-01-11,Air India,AI867,PNQ,LKO,156,Weather,Fog
+2024-02-03,GoAir,GO110,DEL,BLR,135,Weather,Snow
+2024-04-09,Indigo,IN811,MAA,CCU,108,Weather,Clear
+2024-04-18,Vistara,VI824,LKO,BOM,81,Security,Clear
+2024-05-05,Air India,AI373,BOM,MAA,36,Security,Clear
+2024-05-10,Indigo,IN123,HYD,PNQ,77,Crew,Clear
+2024-02-15,Air India,AI166,HYD,LKO,37,ATC,Clear
+2024-01-03,Indigo,IN854,LKO,PNQ,33,Security,Clear
+2024-05-29,Vistara,VI746,LKO,PNQ,171,Technical,Clear
+2024-01-15,SpiceJet,SP304,BOM,HYD,38,Weather,Fog
+2024-04-20,SpiceJet,SP315,DEL,CCU,97,Weather,Clear
+2024-02-19,Vistara,VI937,BLR,CCU,169,Security,Clear
+2024-04-30,Air India,AI849,DEL,MAA,16,Weather,Fog
+2024-02-15,SpiceJet,SP369,HYD,LKO,63,Technical,Clear
+2024-06-28,Indigo,IN292,HYD,PNQ,73,Weather,Heavy Rain
+2024-04-11,GoAir,GO403,CCU,MAA,70,Technical,Clear
+2024-03-05,Air India,AI853,BLR,LKO,79,Weather,Thunderstorm
+2024-02-11,Indigo,IN163,BOM,MAA,30,Weather,Clear
+2024-04-20,Indigo,IN790,PNQ,DEL,37,Security,Clear
+2024-05-30,Air India,AI814,BOM,LKO,96,Weather,Snow
+2024-04-01,Vistara,VI479,PNQ,HYD,95,Crew,Clear
+2024-02-28,GoAir,GO274,DEL,CCU,134,Weather,Snow
+2024-03-24,Vistara,VI574,PNQ,BLR,113,Weather,Snow
+2024-01-07,SpiceJet,SP907,LKO,BLR,176,Security,Clear
+2024-04-12,Air India,AI114,CCU,PNQ,59,ATC,Clear
+2024-05-31,SpiceJet,SP322,BOM,DEL,53,Weather,Thunderstorm
+2024-03-27,SpiceJet,SP122,PNQ,BLR,155,Weather,Thunderstorm
+2024-02-28,SpiceJet,SP598,PNQ,BLR,55,Weather,Snow
+2024-06-19,Indigo,IN461,BOM,DEL,137,Security,Clear
+2024-02-06,SpiceJet,SP631,PNQ,CCU,140,Weather,Fog
+2024-03-19,SpiceJet,SP446,MAA,CCU,171,Technical,Clear
+2024-06-02,SpiceJet,SP642,MAA,HYD,47,Crew,Clear
+2024-05-24,Vistara,VI164,DEL,MAA,78,Weather,Heavy Rain
+2024-03-24,SpiceJet,SP992,LKO,CCU,136,Security,Clear
+2024-05-22,Air India,AI691,LKO,CCU,47,Weather,Thunderstorm
+2024-06-10,GoAir,GO334,BLR,PNQ,140,ATC,Clear
+2024-01-05,Air India,AI623,BOM,MAA,174,Crew,Clear
+2024-01-21,GoAir,GO602,PNQ,MAA,83,Security,Clear
+2024-04-25,Vistara,VI896,BLR,PNQ,51,Crew,Clear
+2024-01-16,Vistara,VI352,BLR,CCU,106,Weather,Clear
+2024-05-03,GoAir,GO249,MAA,HYD,95,Weather,Clear
+2024-05-17,SpiceJet,SP943,BLR,LKO,90,Technical,Clear
+2024-02-19,GoAir,GO918,MAA,BOM,123,Crew,Clear
+2024-03-17,Air India,AI309,HYD,BLR,179,Weather,Snow
+2024-01-21,Air India,AI576,HYD,MAA,157,Technical,Clear
+2024-06-01,Vistara,VI876,LKO,DEL,131,Security,Clear
+2024-02-20,GoAir,GO564,MAA,BOM,97,Technical,Clear
+2024-02-01,Indigo,IN988,LKO,MAA,51,Weather,Thunderstorm
+2024-04-06,GoAir,GO126,CCU,LKO,60,Weather,Thunderstorm
+2024-06-05,Indigo,IN759,MAA,HYD,160,Technical,Clear
+2024-05-10,Indigo,IN840,HYD,MAA,32,Weather,Heavy Rain
+2024-02-08,Indigo,IN635,HYD,CCU,107,Weather,Thunderstorm
+2024-03-27,Indigo,IN522,LKO,PNQ,117,Weather,Clear
+2024-01-16,GoAir,GO526,CCU,LKO,37,Weather,Heavy Rain
+2024-04-24,SpiceJet,SP218,MAA,BOM,180,Weather,Clear
+2024-01-07,Indigo,IN758,BLR,MAA,71,Weather,Heavy Rain
+2024-02-09,SpiceJet,SP612,LKO,HYD,177,Weather,Snow
+2024-01-05,GoAir,GO883,MAA,BLR,121,Weather,Clear
+2024-01-18,Indigo,IN304,DEL,HYD,140,Weather,Fog
+2024-03-30,Indigo,IN695,LKO,MAA,57,ATC,Clear
+2024-02-24,SpiceJet,SP649,DEL,CCU,87,Crew,Clear
+2024-05-22,Air India,AI623,CCU,BOM,170,ATC,Clear
+2024-03-26,SpiceJet,SP434,MAA,BLR,88,Weather,Snow
+2024-01-08,Vistara,VI717,CCU,BOM,25,Weather,Snow
+2024-01-28,SpiceJet,SP304,MAA,PNQ,69,Technical,Clear
+2024-04-02,Vistara,VI155,BLR,LKO,79,ATC,Clear
+2024-05-10,Indigo,IN417,DEL,HYD,100,ATC,Clear
+2024-05-07,Vistara,VI837,LKO,BLR,169,Security,Clear
+2024-05-05,Vistara,VI674,MAA,PNQ,78,Security,Clear
+2024-06-06,Indigo,IN100,DEL,LKO,17,Weather,Thunderstorm
+2024-01-01,Air India,AI555,CCU,LKO,55,Technical,Clear
+2024-01-14,Air India,AI320,BLR,MAA,110,Crew,Clear
+2024-03-12,Vistara,VI769,DEL,BLR,45,Crew,Clear
+2024-02-06,Air India,AI567,BLR,DEL,22,Security,Clear
+2024-02-14,Indigo,IN215,BOM,CCU,163,Weather,Clear
+2024-03-10,Air India,AI123,PNQ,DEL,54,Crew,Clear
+2024-01-17,Vistara,VI794,CCU,DEL,125,Weather,Snow
+2024-04-15,SpiceJet,SP113,DEL,CCU,86,Weather,Thunderstorm
+2024-05-02,SpiceJet,SP921,MAA,DEL,63,Technical,Clear
+2024-06-25,Vistara,VI929,DEL,CCU,159,Weather,Snow
+2024-05-23,Vistara,VI910,BLR,CCU,27,ATC,Clear
+2024-04-03,Indigo,IN712,LKO,BLR,154,ATC,Clear
+2024-04-05,Air India,AI843,HYD,BLR,103,Crew,Clear
+2024-02-14,GoAir,GO511,LKO,BLR,89,Security,Clear
+2024-06-21,Vistara,VI791,CCU,HYD,37,Security,Clear
+2024-02-05,Air India,AI467,PNQ,BLR,57,Crew,Clear
+2024-03-28,GoAir,GO980,HYD,LKO,176,Weather,Heavy Rain
+2024-05-26,SpiceJet,SP935,BLR,PNQ,35,Technical,Clear
+2024-01-29,GoAir,GO657,DEL,LKO,16,Weather,Thunderstorm
+2024-05-20,SpiceJet,SP857,BLR,CCU,100,Crew,Clear
+2024-01-30,Air India,AI849,LKO,MAA,148,Security,Clear
+2024-02-26,GoAir,GO459,CCU,LKO,42,Crew,Clear
+2024-06-12,Vistara,VI259,BLR,CCU,144,Weather,Fog
+2024-05-06,SpiceJet,SP173,MAA,BOM,92,Crew,Clear
+2024-05-18,Indigo,IN934,BLR,DEL,90,Weather,Fog
+2024-02-23,SpiceJet,SP947,BOM,DEL,45,Weather,Snow
+2024-04-01,Vistara,VI110,MAA,HYD,68,Weather,Thunderstorm
+2024-04-19,GoAir,GO703,PNQ,LKO,25,Technical,Clear
+2024-01-09,Vistara,VI427,LKO,DEL,136,Weather,Snow
+2024-05-17,Indigo,IN532,LKO,CCU,21,Weather,Snow
+2024-01-10,Vistara,VI877,BOM,MAA,38,Weather,Fog
+2024-03-03,Indigo,IN565,CCU,LKO,169,Weather,Snow
+2024-01-09,Air India,AI417,PNQ,BOM,39,Technical,Clear
+2024-06-24,SpiceJet,SP707,DEL,LKO,143,Weather,Heavy Rain
+2024-04-28,Air India,AI813,CCU,PNQ,27,Security,Clear
+2024-05-29,Indigo,IN814,PNQ,BOM,90,Security,Clear
+2024-01-11,Air India,AI715,LKO,BLR,54,Weather,Fog
+2024-02-20,Vistara,VI597,BLR,DEL,60,Weather,Snow
+2024-01-12,Air India,AI287,BLR,HYD,164,ATC,Clear
+2024-02-28,Vistara,VI927,BOM,DEL,48,Weather,Clear
+2024-05-24,Indigo,IN548,PNQ,HYD,125,Crew,Clear
+2024-05-14,Air India,AI750,BOM,MAA,86,Weather,Snow
+2024-05-22,Vistara,VI168,BOM,DEL,106,Weather,Snow
+2024-04-12,GoAir,GO349,HYD,DEL,37,Weather,Clear
+2024-02-17,SpiceJet,SP556,LKO,MAA,32,Weather,Heavy Rain
+2024-05-29,Vistara,VI218,DEL,HYD,91,Weather,Heavy Rain
+2024-06-28,Vistara,VI111,LKO,DEL,18,Technical,Clear
+2024-05-14,Air India,AI699,DEL,BLR,50,ATC,Clear
+2024-03-03,Vistara,VI920,BLR,BOM,137,Technical,Clear
+2024-02-24,Indigo,IN276,CCU,MAA,153,Technical,Clear
+2024-02-07,SpiceJet,SP978,HYD,PNQ,137,Crew,Clear
+2024-05-24,SpiceJet,SP352,CCU,PNQ,72,Technical,Clear
+2024-04-14,Indigo,IN870,CCU,DEL,116,ATC,Clear
+2024-02-19,Air India,AI500,PNQ,MAA,72,ATC,Clear
+2024-05-02,GoAir,GO909,CCU,LKO,177,ATC,Clear
+2024-03-02,GoAir,GO633,MAA,BLR,125,Crew,Clear
+2024-04-16,Indigo,IN675,BOM,CCU,52,ATC,Clear
+2024-04-04,Air India,AI502,MAA,BLR,102,Technical,Clear
+2024-05-17,GoAir,GO434,MAA,PNQ,145,Security,Clear
+2024-04-08,GoAir,GO811,HYD,MAA,140,Weather,Thunderstorm
+2024-05-16,GoAir,GO731,BOM,BLR,84,Technical,Clear
+2024-06-01,GoAir,GO333,LKO,HYD,159,Security,Clear
+2024-03-30,Air India,AI296,LKO,MAA,86,Technical,Clear
+2024-06-02,Vistara,VI785,BLR,PNQ,50,Technical,Clear
+2024-02-18,Air India,AI829,LKO,BOM,163,Crew,Clear
+2024-01-31,Air India,AI753,BLR,BOM,177,Technical,Clear
+2024-02-16,Vistara,VI483,BLR,MAA,84,Weather,Clear
+2024-04-27,GoAir,GO449,HYD,BLR,79,Technical,Clear
+2024-04-06,GoAir,GO502,DEL,BOM,80,Weather,Snow
+2024-04-26,GoAir,GO697,MAA,LKO,65,Technical,Clear
+2024-01-14,Vistara,VI743,PNQ,MAA,126,Weather,Snow
+2024-03-21,Indigo,IN243,HYD,DEL,28,Weather,Fog
+2024-01-18,Air India,AI210,MAA,BOM,123,Crew,Clear
+2024-01-11,GoAir,GO161,DEL,BOM,174,Weather,Thunderstorm
+2024-03-13,Vistara,VI346,BLR,BOM,161,Technical,Clear
+2024-05-21,Air India,AI960,BLR,BOM,164,Weather,Thunderstorm
+2024-02-26,SpiceJet,SP925,CCU,BOM,19,Technical,Clear
+2024-01-24,GoAir,GO858,MAA,PNQ,39,Weather,Heavy Rain
+2024-04-14,SpiceJet,SP347,PNQ,MAA,59,Weather,Heavy Rain
+2024-03-12,Indigo,IN103,BLR,CCU,163,Weather,Clear
+2024-04-08,Vistara,VI318,BLR,DEL,119,ATC,Clear
+2024-04-23,SpiceJet,SP856,CCU,PNQ,112,Technical,Clear
+2024-05-18,Air India,AI310,PNQ,BLR,149,Crew,Clear
+2024-03-23,Indigo,IN611,CCU,PNQ,67,Weather,Thunderstorm
+2024-02-06,Indigo,IN715,CCU,BOM,68,Crew,Clear
+2024-03-21,Air India,AI514,MAA,BOM,74,Crew,Clear
+2024-06-02,Vistara,VI124,BLR,CCU,130,Technical,Clear
+2024-04-09,GoAir,GO453,LKO,BLR,126,Weather,Snow
+2024-04-18,Indigo,IN547,MAA,HYD,108,Weather,Thunderstorm
+2024-05-02,SpiceJet,SP272,BLR,PNQ,147,Technical,Clear
+2024-01-10,Vistara,VI473,DEL,PNQ,55,Weather,Fog
+2024-06-06,GoAir,GO151,MAA,DEL,80,Technical,Clear
+2024-02-08,Air India,AI245,CCU,HYD,62,ATC,Clear
+2024-04-14,Air India,AI270,BOM,HYD,173,ATC,Clear
+2024-05-26,SpiceJet,SP395,PNQ,BLR,75,ATC,Clear
+2024-02-20,GoAir,GO829,BOM,DEL,83,Crew,Clear
+2024-05-16,Indigo,IN897,PNQ,MAA,60,Crew,Clear
+2024-05-16,SpiceJet,SP351,DEL,BLR,84,ATC,Clear
+2024-05-08,GoAir,GO158,CCU,BOM,135,Weather,Heavy Rain
+2024-02-03,SpiceJet,SP982,LKO,MAA,133,Crew,Clear
+2024-04-26,SpiceJet,SP827,BOM,CCU,178,Weather,Clear
+2024-01-11,Indigo,IN486,HYD,DEL,150,Weather,Snow
+2024-06-22,Vistara,VI663,CCU,MAA,180,Weather,Clear
+2024-03-31,GoAir,GO691,CCU,PNQ,119,Weather,Heavy Rain
+2024-05-08,Vistara,VI229,DEL,HYD,109,Weather,Thunderstorm
+2024-01-30,GoAir,GO522,CCU,BLR,21,Weather,Thunderstorm
+2024-05-04,SpiceJet,SP868,DEL,HYD,178,Weather,Heavy Rain
+2024-04-25,GoAir,GO909,HYD,CCU,116,Crew,Clear
+2024-02-06,Indigo,IN332,PNQ,HYD,134,Weather,Snow
+2024-04-05,SpiceJet,SP574,HYD,MAA,77,Security,Clear
+2024-06-12,Indigo,IN402,LKO,DEL,113,Weather,Snow
+2024-01-20,GoAir,GO401,LKO,PNQ,137,Technical,Clear
+2024-05-02,Indigo,IN460,LKO,BOM,144,Weather,Heavy Rain
+2024-01-03,Indigo,IN249,MAA,DEL,70,Weather,Clear
+2024-04-05,Indigo,IN559,CCU,HYD,132,Crew,Clear
+2024-06-08,Air India,AI391,LKO,DEL,164,ATC,Clear
+2024-04-22,Vistara,VI543,DEL,CCU,159,Crew,Clear
+2024-02-09,Vistara,VI438,PNQ,LKO,83,Crew,Clear
+2024-02-06,SpiceJet,SP195,CCU,HYD,25,Weather,Fog
+2024-03-18,Indigo,IN236,BLR,MAA,121,Technical,Clear
+2024-04-19,GoAir,GO681,MAA,BOM,31,Weather,Heavy Rain
+2024-01-10,Air India,AI844,PNQ,CCU,134,Weather,Heavy Rain
+2024-06-21,Vistara,VI216,BOM,CCU,102,Weather,Clear
+2024-04-05,Vistara,VI364,LKO,CCU,149,Technical,Clear
+2024-06-19,GoAir,GO632,MAA,PNQ,77,Technical,Clear
